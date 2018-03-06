@@ -1,0 +1,1648 @@
+exploratory	EP_PlotID	plant_genus	plant_species	inflorescences_qcm	survey	date
+Alb	AEG11	Crepis	Crepis biennis	85	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Crepis	Crepis biennis	70	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Crepis	Crepis biennis	80	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Crepis	Crepis biennis	85	4	8/8/2009 12:00:00 AM
+Alb	AEG11	Galium	Galium mollugo agg.	330	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Galium	Galium mollugo agg.	420	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Galium	Galium mollugo agg.	190	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Galium	Galium mollugo agg.	310	4	8/8/2009 12:00:00 AM
+Alb	AEG11	Geranium	Geranium pyrenaicum	3	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Geranium	Geranium pyrenaicum	5	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Heracleum	Heracleum sphondylium	10	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Plantago	Plantago major	295	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Plantago	Plantago major	245	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Plantago	Plantago major	135	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Plantago	Plantago major	220	4	8/8/2009 12:00:00 AM
+Alb	AEG11	Plantago	Plantago media	300	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Ranunculus	Ranunculus nemorosus	90	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Ranunculus	Ranunculus nemorosus	90	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Ranunculus	Ranunculus nemorosus	75	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Ranunculus	Ranunculus nemorosus	50	4	8/8/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium pratense	430	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium pratense	295	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium pratense	325	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium pratense	345	4	8/8/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium repens	100	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium repens	110	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium repens	140	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Trifolium	Trifolium repens	65	4	8/8/2009 12:00:00 AM
+Alb	AEG11	Vicia	Vicia sativa	50	1	7/27/2009 12:00:00 AM
+Alb	AEG11	Vicia	Vicia sativa	40	2	7/30/2009 12:00:00 AM
+Alb	AEG11	Vicia	Vicia sativa	60	3	8/5/2009 12:00:00 AM
+Alb	AEG11	Vicia	Vicia sativa	40	4	8/8/2009 12:00:00 AM
+Alb	AEG14	Achillea	Achillea millefolium agg.	70	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Achillea	Achillea millefolium agg.	310	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Achillea	Achillea millefolium agg.	40	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Achillea	Achillea millefolium agg.	40	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Bellis	Bellis perennis	5	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Campanula	Campanula rotundifolia	25	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Campanula	Campanula rotundifolia	30	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Campanula	Campanula rotundifolia	10	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Galium	Galium mollugo agg.	290	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Galium	Galium mollugo agg.	630	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Galium	Galium mollugo agg.	350	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Galium	Galium mollugo agg.	160	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Heracleum	Heracleum sphondylium	870	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Heracleum	Heracleum sphondylium	700	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Heracleum	Heracleum sphondylium	120	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Heracleum	Heracleum sphondylium	65	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Leucanthemum	Leucanthemum vulgare	4	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Leucanthemum	Leucanthemum vulgare	15	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Medicago	Medicago lupulina	20	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Medicago	Medicago lupulina	30	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Medicago	Medicago lupulina	40	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Medicago	Medicago lupulina	30	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Plantago	Plantago major	65	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Plantago	Plantago major	75	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Plantago	Plantago major	25	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Plantago	Plantago major	5	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Plantago	Plantago media	12	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Plantago	Plantago media	10	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Ranunculus	Ranunculus acris	10	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Ranunculus	Ranunculus acris	50	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Ranunculus	Ranunculus acris	60	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Ranunculus	Ranunculus acris	35	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium pratense	335	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium pratense	405	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium pratense	135	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium pratense	70	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium repens	530	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium repens	270	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium repens	20	3	8/6/2009 12:00:00 AM
+Alb	AEG14	Trifolium	Trifolium repens	15	4	8/12/2009 12:00:00 AM
+Alb	AEG14	Vicia	Vicia sativa	16	1	7/24/2009 12:00:00 AM
+Alb	AEG14	Vicia	Vicia sativa	70	2	7/29/2009 12:00:00 AM
+Alb	AEG14	Vicia	Vicia sativa	10	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Achillea	Achillea millefolium agg.	10	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Galium	Galium mollugo agg.	50	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Galium	Galium mollugo agg.	80	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Galium	Galium mollugo agg.	40	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Geranium	Geranium pratense	65	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Geranium	Geranium pratense	20	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Geranium	Geranium pratense	5	4	8/14/2009 12:00:00 AM
+Alb	AEG15	Geranium	Geranium sylvestris	35	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Heracleum	Heracleum sphondylium	510	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Heracleum	Heracleum sphondylium	185	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Heracleum	Heracleum sphondylium	40	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Heracleum	Heracleum sphondylium	15	4	8/14/2009 12:00:00 AM
+Alb	AEG15	Medicago	Medicago x varia	180	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Medicago	Medicago x varia	10	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Medicago	Medicago x varia	20	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Medicago	Medicago x varia	55	4	8/14/2009 12:00:00 AM
+Alb	AEG15	Alchemilla		20	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Myosotis		15	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Plantago	Plantago major	90	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Plantago	Plantago major	25	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Plantago	Plantago major	5	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Plantago	Plantago major	10	4	8/14/2009 12:00:00 AM
+Alb	AEG15	Polygonum	Polygonum bistorta	15	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Ranunculus	Ranunculus acris	525	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Ranunculus	Ranunculus acris	160	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Ranunculus	Ranunculus acris	45	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Ranunculus	Ranunculus acris	55	4	8/14/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium pratense	870	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium pratense	420	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium pratense	320	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium pratense	325	4	8/14/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium repens	460	1	7/27/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium repens	160	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium repens	35	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Trifolium	Trifolium repens	75	4	8/14/2009 12:00:00 AM
+Alb	AEG15	Vicia	Vicia sativa	15	2	7/31/2009 12:00:00 AM
+Alb	AEG15	Vicia	Vicia sativa	10	3	8/6/2009 12:00:00 AM
+Alb	AEG15	Vicia	Vicia sativa	10	4	8/14/2009 12:00:00 AM
+Alb	AEG19	Achillea	Achillea millefolium agg.	5	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Galium	Galium mollugo agg.	515	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Galium	Galium mollugo agg.	520	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Galium	Galium mollugo agg.	360	3	8/7/2009 12:00:00 AM
+Alb	AEG19	Galium	Galium mollugo agg.	100	4	8/12/2009 12:00:00 AM
+Alb	AEG19	Geranium	Geranium pratense	5	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Heracleum	Heracleum sphondylium	19	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Heracleum	Heracleum sphondylium	10	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Hypericum	Hypericum perforatum	15	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Hypericum	Hypericum perforatum	15	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Lamium	Lamium album	3	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Minuartia	Minuartia verna	2	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Minuartia	Minuartia verna	1	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Plantago	Plantago media	5	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Ranunculus	Ranunculus acris	80	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Ranunculus	Ranunculus acris	150	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Ranunculus	Ranunculus acris	25	3	8/7/2009 12:00:00 AM
+Alb	AEG19	Ranunculus	Ranunculus repens	30	4	8/12/2009 12:00:00 AM
+Alb	AEG19	Rumex	Rumex acetosa	30	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Rumex	Rumex acetosa	30	3	8/7/2009 12:00:00 AM
+Alb	AEG19	Rumex	Rumex obtusifolius	100	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Rumex	Rumex obtusifolius	60	3	8/7/2009 12:00:00 AM
+Alb	AEG19	Trifolium	Trifolium pratense	95	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Trifolium	Trifolium pratense	170	2	7/29/2009 12:00:00 AM
+Alb	AEG19	Trifolium	Trifolium pratense	170	3	8/7/2009 12:00:00 AM
+Alb	AEG19	Trifolium	Trifolium pratense	110	4	8/12/2009 12:00:00 AM
+Alb	AEG19	Trifolium	Trifolium repens	5	1	7/25/2009 12:00:00 AM
+Alb	AEG19	Trifolium	Trifolium repens	10	2	7/29/2009 12:00:00 AM
+Alb	AEG2	Achillea	Achillea millefolium agg.	40	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Achillea	Achillea millefolium agg.	50	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Bellis	Bellis perennis	60	1	7/28/2009 12:00:00 AM
+Alb	AEG2	Bellis	Bellis perennis	55	2	7/30/2009 12:00:00 AM
+Alb	AEG2	Bellis	Bellis perennis	75	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Bellis	Bellis perennis	110	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Galium	Galium mollugo agg.	20	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Geranium	Geranium pyrenaicum	70	1	7/28/2009 12:00:00 AM
+Alb	AEG2	Geranium	Geranium pyrenaicum	50	2	7/30/2009 12:00:00 AM
+Alb	AEG2	Geranium	Geranium sylvaticum	90	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Geranium	Geranium sylvaticum	55	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Minuartia	Minuartia verna	10	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Alchemilla		30	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Pimpinella	Pimpinella saxifraga	60	1	7/28/2009 12:00:00 AM
+Alb	AEG2	Pimpinella	Pimpinella saxifraga	70	2	7/30/2009 12:00:00 AM
+Alb	AEG2	Pimpinella	Pimpinella saxifraga	90	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Pimpinella	Pimpinella saxifraga	95	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Plantago	Plantago major	20	1	7/28/2009 12:00:00 AM
+Alb	AEG2	Plantago	Plantago major	60	2	7/30/2009 12:00:00 AM
+Alb	AEG2	Plantago	Plantago major	135	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Plantago	Plantago major	95	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Taraxacum	Taraxacum officinale	5	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium pratense	80	1	7/28/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium pratense	120	2	7/30/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium pratense	95	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium pratense	95	4	8/9/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium repens	155	1	7/28/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium repens	160	2	7/30/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium repens	250	3	8/7/2009 12:00:00 AM
+Alb	AEG2	Trifolium	Trifolium repens	185	4	8/9/2009 12:00:00 AM
+Alb	AEG21	Achillea	Achillea millefolium agg.	10	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Galium	Galium mollugo agg.	10	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Heracleum	Heracleum sphondylium	15	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Heracleum	Heracleum sphondylium	20	3	8/5/2009 12:00:00 AM
+Alb	AEG21	Heracleum	Heracleum sphondylium	120	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Minuartia	Minuartia verna	5	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Minuartia	Minuartia verna	10	3	8/5/2009 12:00:00 AM
+Alb	AEG21	Minuartia	Minuartia verna	5	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Achemilla		110	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Alchemilla		25	3	8/5/2009 12:00:00 AM
+Alb	AEG21	Alchemilla		45	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Plantago	Plantago major	10	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Plantago	Plantago major	5	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Plantago	Plantago media	15	1	7/26/2009 12:00:00 AM
+Alb	AEG21	Plantago	Plantago media	60	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Plantago	Plantago media	25	3	8/5/2009 12:00:00 AM
+Alb	AEG21	Plantago	Plantago media	55	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Ranunculus	Ranunculus acris	3	1	7/26/2009 12:00:00 AM
+Alb	AEG21	Ranunculus	Ranunculus nemorosus	15	3	8/5/2009 12:00:00 AM
+Alb	AEG21	Ranunculus	Ranunculus nemorosus	20	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Ranunculus	Ranunculus repens	10	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Taraxacum	Taraxacum officinale	10	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium pratense	20	1	7/26/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium pratense	55	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium pratense	90	3	8/5/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium pratense	105	4	8/8/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium repens	30	1	7/26/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium repens	125	2	7/30/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium repens	65	3	8/5/2009 12:00:00 AM
+Alb	AEG21	Trifolium	Trifolium repens	55	4	8/8/2009 12:00:00 AM
+Alb	AEG22	Campanula	Campanula rotundifolia	4	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Colchicum	Colchicum autumnale	25	4	8/12/2009 12:00:00 AM
+Alb	AEG22	Galium	Galium mollugo agg.	50	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Galium	Galium mollugo agg.	30	2	7/31/2009 12:00:00 AM
+Alb	AEG22	Galium	Galium mollugo agg.	30	3	8/6/2009 12:00:00 AM
+Alb	AEG22	Galium	Galium verum	60	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Geranium	Geranium pratense	10	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Geranium	Geranium pratense	10	2	7/31/2009 12:00:00 AM
+Alb	AEG22	Geranium	Geranium pyrenaicum	5	2	7/31/2009 12:00:00 AM
+Alb	AEG22	Geranium	Geranium pyrenaicum	10	3	8/6/2009 12:00:00 AM
+Alb	AEG22	Geranium	Geranium pyrenaicum	20	4	8/12/2009 12:00:00 AM
+Alb	AEG22	Geranium	Geranium sylvaticum	5	3	8/6/2009 12:00:00 AM
+Alb	AEG22	Knautia	Knautia arvensis	13	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Lathyrus	Lathyrus pratensis	10	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Lathyrus	Lathyrus pratensis	30	3	8/6/2009 12:00:00 AM
+Alb	AEG22	Lotus	Lotus corniculatus	120	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Medicago	Medicago lupulina	20	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Pimpinella	Pimpinella saxifraga	40	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Pimpinella	Pimpinella saxifraga	10	2	7/31/2009 12:00:00 AM
+Alb	AEG22	Pimpinella	Pimpinella saxifraga	5	3	8/6/2009 12:00:00 AM
+Alb	AEG22	Pimpinella	Pimpinella saxifraga	15	4	8/12/2009 12:00:00 AM
+Alb	AEG22	Plantago	Plantago major	10	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Plantago	Plantago major	5	2	7/31/2009 12:00:00 AM
+Alb	AEG22	Plantago	Plantago major	10	3	8/6/2009 12:00:00 AM
+Alb	AEG22	Plantago	Plantago major	10	4	8/12/2009 12:00:00 AM
+Alb	AEG22	Plantago	Plantago media	5	4	8/12/2009 12:00:00 AM
+Alb	AEG22	Senecio	Senecio erucifolius	15	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Trifolium	Trifolium pratense	155	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Trifolium	Trifolium pratense	100	2	7/31/2009 12:00:00 AM
+Alb	AEG22	Trifolium	Trifolium pratense	130	3	8/6/2009 12:00:00 AM
+Alb	AEG22	Trifolium	Trifolium pratense	60	4	8/12/2009 12:00:00 AM
+Alb	AEG22	Trifolium	Trifolium repens	5	1	7/28/2009 12:00:00 AM
+Alb	AEG22	Trifolium	Trifolium repens	20	2	7/31/2009 12:00:00 AM
+Alb	AEG22	Vicia	Vicia sativa	10	3	8/6/2009 12:00:00 AM
+Alb	AEG25	Achillea	Achillea millefolium agg.	25	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Achillea	Achillea millefolium agg.	70	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Achillea	Achillea millefolium agg.	80	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Achillea	Achillea millefolium agg.	110	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Asperula	Asperula cyanchica	485	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Asperula	Asperula cyanchica	810	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Asperula	Asperula cyanchica	410	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Asperula	Asperula cyanchica	530	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Campanula	Campanula rotundifolia	55	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Campanula	Campanula rotundifolia	105	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Campanula	Campanula rotundifolia	165	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Campanula	Campanula rotundifolia	165	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Cirsium	Cirsium acaule	10	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium mollugo agg.	10	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium mollugo agg.	50	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium mollugo agg.	30	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium mollugo agg.	30	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium verum	190	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium verum	175	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium verum	45	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Galium	Galium verum	50	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Geranium	Geranium sanguineum	10	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Hieracium	Hieracium pilosella	10	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Hieracium	Hieracium pilosella	30	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Hieracium	Hieracium pilosella	55	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Hypericum	Hypericum perforatum	45	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Hypericum	Hypericum perforatum	80	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Hypericum	Hypericum perforatum	80	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Hypericum	Hypericum perforatum	75	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Leontodon	Leontodon hispidus	72	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Leontodon	Leontodon hispidus	60	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Leontodon	Leontodon hispidus	80	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Lotus	Lotus corniculatus	120	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Lotus	Lotus corniculatus	120	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Lotus	Lotus corniculatus	120	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Lotus	Lotus corniculatus	130	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Medicago	Medicago lupulina	40	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Medicago	Medicago lupulina	30	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Senecio		30	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Senecio		160	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Senecio		50	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Senecio		120	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Ononis	Ononis spinosa	10	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Pimpinella	Pimpinella saxifraga	120	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Pimpinella	Pimpinella saxifraga	155	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Pimpinella	Pimpinella saxifraga	190	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Plantago	Plantago major	45	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Plantago	Plantago major	5	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Plantago	Plantago media	40	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Plantago	Plantago media	40	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Plantago	Plantago media	25	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Plantago	Plantago media	25	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Potentillla	Potentilla erecta	120	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Potentillla	Potentilla erecta	120	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Potentillla	Potentilla erecta	215	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Potentillla	Potentilla erecta	60	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Prunella	Prunella grandiflora	50	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Prunella	Prunella grandiflora	70	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Prunella	Prunella grandiflora	45	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Prunella	Prunella grandiflora	50	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Rhinanthus	Rhinanthus alectorolophus	20	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Rhinanthus	Rhinanthus alectorolophus	30	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Rhinanthus	Rhinanthus alectorolophus	30	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Scabiosa	Scabiosa columbaria	72	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Scabiosa	Scabiosa columbaria	130	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Scabiosa	Scabiosa columbaria	105	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Scabiosa	Scabiosa columbaria	120	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Teucrium	Teucrium chamaedrys	60	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Teucrium	Teucrium chamaedrys	10	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Teucrium	Teucrium chamaedrys	80	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Teucrium	Teucrium chamaedrys	80	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Teucrium	Teucrium montanum	20	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Thymus	Thymus pulegioides	700	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Thymus	Thymus pulegioides	350	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Thymus	Thymus pulegioides	210	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Thymus	Thymus pulegioides	970	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium dubium	30	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium pratense	155	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium pratense	110	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium pratense	70	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium pratense	35	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium repens	30	1	7/26/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium repens	30	2	7/30/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium repens	25	3	8/5/2009 12:00:00 AM
+Alb	AEG25	Trifolium	Trifolium repens	10	4	8/8/2009 12:00:00 AM
+Alb	AEG25	Vicia	Vicia sativa	5	2	7/30/2009 12:00:00 AM
+Alb	AEG26	Asperula	Asperula cyanchica	30	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Betonica	Betonica officinalis	20	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Campanula	Campanula rotundifolia	95	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Campanula	Campanula rotundifolia	135	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Campanula	Campanula rotundifolia	280	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Campanula	Campanula rotundifolia	128	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Carlina	Carlina acaulis	10	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Cirsium	Cirsium acaule	40	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Cirsium	Cirsium acaule	90	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Daucus	Daucus carota	180	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	220	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	110	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	350	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	155	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Helianthemum	Helianthemum nummularium	15	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Hieracium	Hieracium pilosella	10	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Hypericum	Hypericum perforatum	30	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Hypericum	Hypericum perforatum	50	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Hypericum	Hypericum perforatum	50	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Hypericum	Hypericum perforatum	40	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Leontodon	Leontodon hispidus	140	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Leontodon	Leontodon hispidus	5	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Leontodon	Leontodon hispidus	10	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Lotus	Lotus corniculatus	270	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Lotus	Lotus corniculatus	310	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Lotus	Lotus corniculatus	260	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Lotus	Lotus corniculatus	100	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Medicago	Medicago lupulina	30	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Ononis	Ononis spinosa	130	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Ononis	Ononis spinosa	20	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Origanum	Origanum vulgare	10	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Origanum	Origanum vulgare	30	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Origanum	Origanum vulgare	30	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Pimpinella	Pimpinella saxifraga	138	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Pimpinella	Pimpinella saxifraga	300	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Pimpinella	Pimpinella saxifraga	720	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Pimpinella	Pimpinella saxifraga	390	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Plantago	Plantago major	5	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Plantago	Plantago major	20	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Plantago	Plantago major	10	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Plantago	Plantago media	140	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Plantago	Plantago media	60	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Plantago	Plantago media	15	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Plantago	Plantago media	10	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Prunella	Prunella vulgaris	625	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Prunella	Prunella vulgaris	365	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Prunella	Prunella vulgaris	375	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Prunella	Prunella vulgaris	110	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Rhinanthus	Rhinanthus minor	1610	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Rhinanthus	Rhinanthus minor	1190	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Rhinanthus	Rhinanthus minor	1170	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Rhinanthus	Rhinanthus minor	690	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Scabiosa	Scabiosa columbaria	270	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Scabiosa	Scabiosa columbaria	145	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Scabiosa	Scabiosa columbaria	155	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Scabiosa	Scabiosa columbaria	50	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Teucrium	Teucrium chamaedrys	20	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Thymus	Thymus pulegioides	355	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Thymus	Thymus pulegioides	250	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Thymus	Thymus pulegioides	130	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Thymus	Thymus pulegioides	100	4	8/9/2009 12:00:00 AM
+Alb	AEG26	Trifolium	Trifolium pratense	845	1	7/26/2009 12:00:00 AM
+Alb	AEG26	Trifolium	Trifolium pratense	380	2	7/29/2009 12:00:00 AM
+Alb	AEG26	Trifolium	Trifolium pratense	285	3	8/7/2009 12:00:00 AM
+Alb	AEG26	Trifolium	Trifolium pratense	95	4	8/9/2009 12:00:00 AM
+Alb	AEG3	Achillea	Achillea millefolium agg.	130	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Achillea	Achillea millefolium agg.	270	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Achillea	Achillea millefolium agg.	410	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Achillea	Achillea millefolium agg.	595	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Bellis	Bellis perennis	5	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Campanula	Campanula rotundifolia	10	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Campanula	Campanula rotundifolia	15	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Campanula	Campanula rotundifolia	50	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Galium	Galium mollugo agg.	235	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Galium	Galium mollugo agg.	440	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Galium	Galium mollugo agg.	540	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Galium	Galium mollugo agg.	700	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Geranium	Geranium pratense	20	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Geranium	Geranium pratense	20	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Geranium	Geranium pyrenaicum	50	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Geranium	Geranium pyrenaicum	5	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Geranium	Geranium sylvaticum	20	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Geranium	Geranium sylvaticum	5	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Heracleum	Heracleum sphondylium	170	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Heracleum	Heracleum sphondylium	125	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Heracleum	Heracleum sphondylium	65	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Heracleum	Heracleum sphondylium	40	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Lathyrus	Lathyrus pratensis	90	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Lathyrus	Lathyrus pratensis	55	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Lotus	Lotus corniculatus	210	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Lotus	Lotus corniculatus	155	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Lotus	Lotus corniculatus	25	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Lotus	Lotus corniculatus	75	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago major	150	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago major	190	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago major	135	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago major	130	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago media	900	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago media	820	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago media	380	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Plantago	Plantago media	235	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Ranunculus	Ranunculus acris	15	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Ranunculus	Ranunculus acris	20	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Ranunculus	Ranunculus nemorosus	10	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Ranunculus	Ranunculus nemorosus	10	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium pratense	785	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium pratense	915	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium pratense	830	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium pratense	780	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium repens	1090	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium repens	1100	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium repens	680	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Trifolium	Trifolium repens	200	4	8/12/2009 12:00:00 AM
+Alb	AEG3	Vicia	Vicia sativa	25	1	7/28/2009 12:00:00 AM
+Alb	AEG3	Vicia	Vicia sativa	35	2	7/31/2009 12:00:00 AM
+Alb	AEG3	Vicia	Vicia sativa	35	3	8/6/2009 12:00:00 AM
+Alb	AEG3	Vicia	Vicia sativa	95	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Campanula	Campanula rotundifolia	20	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Campanula	Campanula rotundifolia	10	3	8/6/2009 12:00:00 AM
+Alb	AEG30	Campanula	Campanula rotundifolia	10	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Colchicum	Colchicum autumnale	30	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	10	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Galium	Galium mollugo agg.	90	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Galium	Galium mollugo agg.	120	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Galium	Galium mollugo agg.	80	3	8/6/2009 12:00:00 AM
+Alb	AEG30	Galium	Galium mollugo agg.	20	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Geranium	Geranium sylvaticum	5	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Heracleum	Heracleum sphondylium	45	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Heracleum	Heracleum sphondylium	80	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Heracleum	Heracleum sphondylium	15	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Knautia	Knautia arvensis	5	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Knautia	Knautia arvensis	5	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Lathyrus	Lathyrus pratensis	15	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Lathyrus	Lathyrus pratensis	5	3	8/6/2009 12:00:00 AM
+Alb	AEG30	Lathyrus	Lathyrus pratensis	5	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Lotus	Lotus corniculatus	15	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Pimpinella	Pimpinella saxifraga	45	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Pimpinella	Pimpinella saxifraga	10	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Pimpinella	Pimpinella saxifraga	20	3	8/6/2009 12:00:00 AM
+Alb	AEG30	Plantago	Plantago major	10	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Plantago	Plantago major	10	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Plantago	Plantago major	40	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Plantago	Plantago media	10	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Plantago	Plantago media	15	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Ranunculus	Ranunculus acris	25	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Ranunculus	Ranunculus acris	20	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Ranunculus	Ranunculus acris	10	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Ranunculus	Ranunculus repens	15	3	8/6/2009 12:00:00 AM
+Alb	AEG30	Scabiosa	Scabiosa columbaria	2	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium pratense	160	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium pratense	135	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium pratense	85	3	8/6/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium pratense	155	4	8/12/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium repens	90	1	7/27/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium repens	60	2	7/31/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium repens	30	3	8/6/2009 12:00:00 AM
+Alb	AEG30	Trifolium	Trifolium repens	30	4	8/12/2009 12:00:00 AM
+Alb	AEG32	Achillea	Achillea millefolium agg.	55	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Achillea	Achillea millefolium agg.	140	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Achillea	Achillea millefolium agg.	270	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Achillea	Achillea millefolium agg.	80	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Agrimonia	Agrimonia eupatoria	170	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Agrimonia	Agrimonia eupatoria	150	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Agrimonia	Agrimonia eupatoria	200	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Agrimonia	Agrimonia eupatoria	110	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Carduus	Carduus nutans	10	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Carduus	Carduus nutans	10	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Carduus	Carduus nutans	30	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Carduus	Carduus nutans	20	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Cirsium	Cirsium arvense	70	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Cirsium	Cirsium arvense	135	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Cirsium	Cirsium arvense	180	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Cirsium	Cirsium arvense	75	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Convolvulus	Convolvulus arvensis	20	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Convolvulus	Convolvulus arvensis	30	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Daucus	Daucus carota	60	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Daucus	Daucus carota	150	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Daucus	Daucus carota	270	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Daucus	Daucus carota	100	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Galium	Galium mollugo agg.	180	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Galium	Galium mollugo agg.	130	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Galium	Galium mollugo agg.	30	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Galium	Galium verum	180	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Galium	Galium verum	280	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Galium	Galium verum	120	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Hypericum	Hypericum perforatum	10	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Hypericum	Hypericum perforatum	55	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Hypericum	Hypericum perforatum	70	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Hypericum	Hypericum perforatum	20	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Lathyrus	Lathyrus pratensis	90	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Lathyrus	Lathyrus pratensis	125	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Lathyrus	Lathyrus pratensis	200	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Lathyrus	Lathyrus pratensis	50	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Lotus	Lotus corniculatus	300	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Lotus	Lotus corniculatus	300	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Lotus	Lotus corniculatus	260	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Lotus	Lotus corniculatus	30	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Lychnis	Lychnis flos-cuculi	5	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Medicago	Medicago x varia	50	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Medicago	Medicago x varia	60	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Medicago	Medicago x varia	20	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Achemilla		20	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Achemilla		50	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Origanum	Origanum vulgare	40	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Origanum	Origanum vulgare	50	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Origanum	Origanum vulgare	55	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Origanum	Origanum vulgare	40	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Pimpinella	Pimpinella saxifraga	670	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Pimpinella	Pimpinella saxifraga	810	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Pimpinella	Pimpinella saxifraga	860	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Pimpinella	Pimpinella saxifraga	380	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Prunella	Prunella vulgaris	35	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Prunella	Prunella vulgaris	40	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Prunella	Prunella vulgaris	15	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Prunella	Prunella vulgaris	20	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Ranunculus	Ranunculus acris	35	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Ranunculus	Ranunculus nemorosus	45	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Ranunculus	Ranunculus nemorosus	55	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Ranunculus	Ranunculus nemorosus	10	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Stachys	Stachys recta	170	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Stachys	Stachys recta	125	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Stachys	Stachys recta	210	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Stachys	Stachys recta	100	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Thymus	Thymus pulegioides	20	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium campestre	10	4	8/14/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium dubium	50	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium dubium	30	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium pratense	140	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium pratense	110	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium pratense	50	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium repens	50	2	7/31/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium repens	20	3	8/6/2009 12:00:00 AM
+Alb	AEG32	Trifolium	Trifolium repens	50	1	7/28/2009 12:00:00 AM
+Alb	AEG32	Vicia	Vicia cracca	170	1	7/28/2009 12:00:00 AM
+Alb	AEG35	Galium	Galium mollugo agg.	80	1	7/27/2009 12:00:00 AM
+Alb	AEG35	Galium	Galium mollugo agg.	190	2	7/30/2009 12:00:00 AM
+Alb	AEG35	Galium	Galium mollugo agg.	170	3	8/5/2009 12:00:00 AM
+Alb	AEG35	Galium	Galium mollugo agg.	160	4	8/8/2009 12:00:00 AM
+Alb	AEG35	Plantago	Plantago major	190	1	7/27/2009 12:00:00 AM
+Alb	AEG35	Plantago	Plantago major	430	2	7/30/2009 12:00:00 AM
+Alb	AEG35	Plantago	Plantago major	745	3	8/5/2009 12:00:00 AM
+Alb	AEG35	Plantago	Plantago major	840	4	8/8/2009 12:00:00 AM
+Alb	AEG35	Plantago	Plantago media	60	1	7/27/2009 12:00:00 AM
+Alb	AEG35	Plantago	Plantago media	5	3	8/5/2009 12:00:00 AM
+Alb	AEG35	Ranunculus	Ranunculus nemorosus	10	4	8/8/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium campestre	15	4	8/8/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium pratense	160	1	7/27/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium pratense	155	2	7/30/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium pratense	215	3	8/5/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium pratense	310	4	8/8/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium repens	30	1	7/27/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium repens	10	2	7/30/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium repens	30	3	8/5/2009 12:00:00 AM
+Alb	AEG35	Trifolium	Trifolium repens	5	4	8/8/2009 12:00:00 AM
+Alb	AEG4	Anthriscus	Anthriscus sylvestris	15	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Galium	Galium mollugo agg.	235	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Galium	Galium mollugo agg.	210	2	7/29/2009 12:00:00 AM
+Alb	AEG4	Galium	Galium mollugo agg.	290	3	8/7/2009 12:00:00 AM
+Alb	AEG4	Galium	Galium mollugo agg.	130	4	8/12/2009 12:00:00 AM
+Alb	AEG4	Lamium	Lamium album	55	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Lamium	Lamium album	15	3	8/7/2009 12:00:00 AM
+Alb	AEG4	Lathyrus	Lathyrus pratensis	4	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Leontodon	Leontodon hispidus	10	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Polygonum	Polygonum bistorta	15	3	8/7/2009 12:00:00 AM
+Alb	AEG4	Polygonum	Polygonum bistorta	55	4	8/12/2009 12:00:00 AM
+Alb	AEG4	Ranunculus	Ranunculus acris	71	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Ranunculus	Ranunculus nemorosus	50	2	7/29/2009 12:00:00 AM
+Alb	AEG4	Ranunculus	Ranunculus nemorosus	10	3	8/7/2009 12:00:00 AM
+Alb	AEG4	Rumex	Rumex acetosa	70	2	7/29/2009 12:00:00 AM
+Alb	AEG4	Rumex	Rumex acetosa	40	3	8/7/2009 12:00:00 AM
+Alb	AEG4	Rumex	Rumex acetosa	20	4	8/12/2009 12:00:00 AM
+Alb	AEG4	Rumex	Rumex obtusifolius	110	2	7/29/2009 12:00:00 AM
+Alb	AEG4	Rumex	Rumex obtusifolius	100	3	8/7/2009 12:00:00 AM
+Alb	AEG4	Rumex	Rumex obtusifolius	50	4	8/12/2009 12:00:00 AM
+Alb	AEG4	Trifolium	Trifolium pratense	115	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Trifolium	Trifolium pratense	110	2	7/29/2009 12:00:00 AM
+Alb	AEG4	Trifolium	Trifolium pratense	100	3	8/7/2009 12:00:00 AM
+Alb	AEG4	Trifolium	Trifolium pratense	90	4	8/12/2009 12:00:00 AM
+Alb	AEG4	Trifolium	Trifolium repens	3	1	7/25/2009 12:00:00 AM
+Alb	AEG4	Vicia	Vicia sativa	5	1	7/25/2009 12:00:00 AM
+Alb	AEG42	Achillea	Achillea millefolium agg.	10	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Galium	Galium mollugo agg.	150	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Galium	Galium mollugo agg.	480	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Galium	Galium mollugo agg.	390	3	8/5/2009 12:00:00 AM
+Alb	AEG42	Galium	Galium mollugo agg.	480	4	8/7/2009 12:00:00 AM
+Alb	AEG42	Geranium	Geranium pratense	3	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Geranium	Geranium sylvaticum	20	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Geranium	Geranium sylvaticum	20	3	8/5/2009 12:00:00 AM
+Alb	AEG42	Geranium	Geranium sylvaticum	10	4	8/7/2009 12:00:00 AM
+Alb	AEG42	Heracleum	Heracleum sphondylium	660	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Heracleum	Heracleum sphondylium	660	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Heracleum	Heracleum sphondylium	270	3	8/5/2009 12:00:00 AM
+Alb	AEG42	Heracleum	Heracleum sphondylium	255	4	8/7/2009 12:00:00 AM
+Alb	AEG42	Lathyrus	Lathyrus pratensis	15	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Lathyrus	Lathyrus pratensis	30	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Pimpinella	Pimpinella saxifraga	50	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Pimpinella	Pimpinella saxifraga	40	4	8/7/2009 12:00:00 AM
+Alb	AEG42	Plantago	Plantago major	125	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Plantago	Plantago major	15	3	8/5/2009 12:00:00 AM
+Alb	AEG42	Plantago	Plantago major	25	4	8/7/2009 12:00:00 AM
+Alb	AEG42	Plantago	Plantago media	70	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Plantago	Plantago media	30	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Ranunculus	Ranunculus acris	425	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Ranunculus	Ranunculus acris	320	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Ranunculus	Ranunculus acris	65	4	8/7/2009 12:00:00 AM
+Alb	AEG42	Ranunculus	Ranunculus nemorosus	85	3	8/5/2009 12:00:00 AM
+Alb	AEG42	Rumex	Rumex crausa	50	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium pratense	530	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium pratense	560	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium pratense	145	3	8/5/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium pratense	170	4	8/7/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium repens	210	1	7/26/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium repens	330	2	7/30/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium repens	15	3	8/5/2009 12:00:00 AM
+Alb	AEG42	Trifolium	Trifolium repens	10	4	8/7/2009 12:00:00 AM
+Alb	AEG47	Agrimonia	Agrimonia eupatoria	10	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Asperula	Asperula cyanchica	390	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Asperula	Asperula cyanchica	250	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Asperula	Asperula cyanchica	430	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Campanula	Campanula rotundifolia	20	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Campanula	Campanula rotundifolia	65	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Campanula	Campanula rotundifolia	100	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Campanula	Campanula rotundifolia	55	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Centaurea	Centaurea jacea	75	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Centaurea	Centaurea jacea	170	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Centaurea	Centaurea jacea	205	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Cirsium	Cirsium acaule	42	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Cirsium	Cirsium acaule	110	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Cirsium	Cirsium acaule	230	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Daucus	Daucus carota	119	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Daucus	Daucus carota	70	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Daucus	Daucus carota	135	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Daucus	Daucus carota	220	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Galium	Galium mollugo agg.	150	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Galium	Galium verum	5	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Galium	Galium verum	10	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Helianthemum	Helianthemum nummularium	25	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Hypericum	Hypericum perforatum	4	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Hypericum	Hypericum perforatum	15	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Knautia	Knautia arvensis	50	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Leontodon	Leontodon hispidus	121	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Leontodon	Leontodon hispidus	7	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Leontodon	Leontodon hispidus	10	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Lotus	Lotus corniculatus	245	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Lotus	Lotus corniculatus	390	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Lotus	Lotus corniculatus	255	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Lotus	Lotus corniculatus	330	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Ononis	Ononis spinosa	60	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Ononis	Ononis spinosa	60	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Ononis	Ononis spinosa	55	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Origanum	Origanum vulgare	40	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Origanum	Origanum vulgare	110	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Origanum	Origanum vulgare	80	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Origanum	Origanum vulgare	90	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Pimpinella	Pimpinella saxifraga	370	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Pimpinella	Pimpinella saxifraga	500	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Pimpinella	Pimpinella saxifraga	700	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Plantago	Plantago major	25	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Plantago	Plantago major	15	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Plantago	Plantago media	95	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Plantago	Plantago media	30	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Prunella	Prunella vulgaris	125	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Prunella	Prunella vulgaris	95	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Prunella	Prunella vulgaris	65	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Prunella	Prunella vulgaris	85	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Rhinanthus	Rhinanthus minor	120	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Rhinanthus	Rhinanthus minor	255	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Rhinanthus	Rhinanthus minor	400	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Rhinanthus	Rhinanthus minor	570	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Scabiosa	Scabiosa columbaria	90	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Scabiosa	Scabiosa columbaria	90	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Scabiosa	Scabiosa columbaria	60	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Thymus	Thymus pulegioides	285	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Thymus	Thymus pulegioides	230	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Thymus	Thymus pulegioides	180	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Thymus	Thymus pulegioides	50	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Trifolium	Trifolium pratense	190	1	7/25/2009 12:00:00 AM
+Alb	AEG47	Trifolium	Trifolium pratense	100	2	7/29/2009 12:00:00 AM
+Alb	AEG47	Trifolium	Trifolium pratense	140	3	8/5/2009 12:00:00 AM
+Alb	AEG47	Trifolium	Trifolium pratense	110	4	8/8/2009 12:00:00 AM
+Alb	AEG47	Trifolium	Trifolium repens	5	1	7/25/2009 12:00:00 AM
+Alb	AEG49	Achillea	Achillea millefolium agg.	35	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Achillea	Achillea millefolium agg.	40	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Achillea	Achillea millefolium agg.	60	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Achillea	Achillea millefolium agg.	70	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Agrimonia	Agrimonia eupatoria	255	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Agrimonia	Agrimonia eupatoria	275	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Agrimonia	Agrimonia eupatoria	150	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Agrimonia	Agrimonia eupatoria	235	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Asperula	Asperula cyanchica	10	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Campanula	Campanula rotundifolia	20	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Campanula	Campanula rotundifolia	10	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Carduus	Carduus nutans	10	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Carduus	Carduus nutans	25	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Cichorium	Cichorium intybus	40	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Cichorium	Cichorium intybus	30	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Cichorium	Cichorium intybus	25	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Cirsium	Cirsium arvense	25	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Cirsium	Cirsium arvense	20	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Crepis	Crepis biennis	215	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Crepis	Crepis biennis	110	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Crepis	Crepis biennis	30	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Daucus	Daucus carota	320	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Daucus	Daucus carota	550	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Daucus	Daucus carota	680	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Daucus	Daucus carota	560	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Euphorbia	Euphorbia cyparissias	50	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Euphorbia	Euphorbia cyparissias	40	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Euphorbia	Euphorbia cyparissias	75	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Galium	Galium mollugo agg.	20	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Galium	Galium mollugo agg.	20	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Galium	Galium mollugo agg.	20	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Galium	Galium verum	100	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Galium	Galium verum	90	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Galium	Galium verum	70	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Galium	Galium verum	20	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Hieracium	Hieracium pilosella	65	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Hypericum	Hypericum perforatum	50	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Hypericum	Hypericum perforatum	120	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Hypericum	Hypericum perforatum	140	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Hypericum	Hypericum perforatum	130	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Knautia	Knautia arvensis	10	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Leontodon	Leontodon hispidus	25	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Lotus	Lotus corniculatus	925	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Lotus	Lotus corniculatus	750	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Lotus	Lotus corniculatus	570	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Lotus	Lotus corniculatus	350	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Ononis	Ononis spinosa	60	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Ononis	Ononis spinosa	70	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Ononis	Ononis spinosa	60	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Ononis	Ononis spinosa	100	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Origanum	Origanum vulgare	480	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Origanum	Origanum vulgare	570	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Origanum	Origanum vulgare	600	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Origanum	Origanum vulgare	660	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Pimpinella	Pimpinella saxifraga	115	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Pimpinella	Pimpinella saxifraga	185	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Pimpinella	Pimpinella saxifraga	380	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Pimpinella	Pimpinella saxifraga	430	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Plantago	Plantago major	10	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Plantago	Plantago media	40	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Plantago	Plantago media	35	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Plantago	Plantago media	10	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Prunella	Prunella vulgaris	5	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Prunella	Prunella vulgaris	10	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Prunella	Prunella vulgaris	20	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Ranunculus	Ranunculus acris	55	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Ranunculus	Ranunculus acris	105	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Ranunculus	Ranunculus nemorosus	20	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Ranunculus	Ranunculus nemorosus	40	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Rhinanthus	Rhinanthus minor	10	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Rhinanthus	Rhinanthus minor	20	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Scabiosa	Scabiosa columbaria	10	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Scabiosa	Scabiosa columbaria	10	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Senecio	Senecio erucifolius	30	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Stachys	Stachys germanica	20	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Stachys	Stachys germanica	30	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Stachys	Stachys recta	20	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Thymus	Thymus pulegioides	990	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Thymus	Thymus pulegioides	750	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Thymus	Thymus pulegioides	770	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Thymus	Thymus pulegioides	180	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium campestre	30	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium pratense	570	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium pratense	490	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium pratense	385	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium pratense	360	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium repens	620	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium repens	410	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium repens	200	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Trifolium	Trifolium repens	10	4	8/14/2009 12:00:00 AM
+Alb	AEG49	Vicia	Vicia sativa	25	1	7/27/2009 12:00:00 AM
+Alb	AEG49	Vicia	Vicia sativa	20	2	7/31/2009 12:00:00 AM
+Alb	AEG49	Vicia	Vicia sativa	20	3	8/6/2009 12:00:00 AM
+Alb	AEG49	Vicia	Vicia sativa	20	4	8/14/2009 12:00:00 AM
+Alb	AEG50	Achillea	Achillea millefolium agg.	53	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Achillea	Achillea millefolium agg.	110	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Galium	Galium mollugo agg.	205	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Galium	Galium mollugo agg.	660	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Galium	Galium mollugo agg.	350	3	8/7/2009 12:00:00 AM
+Alb	AEG50	Galium	Galium mollugo agg.	220	4	8/9/2009 12:00:00 AM
+Alb	AEG50	Geranium	Geranium pyrenaicum	15	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Heracleum	Heracleum sphondylium	2	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Heracleum	Heracleum sphondylium	10	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Lathyrus	Lathyrus pratensis	30	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Lathyrus	Lathyrus pratensis	70	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Alchemilla		20	4	8/9/2009 12:00:00 AM
+Alb	AEG50	Pimpinella	Pimpinella saxifraga	32	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Plantago	Plantago media	15	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Plantago	Plantago media	5	3	8/7/2009 12:00:00 AM
+Alb	AEG50	Ranunculus	Ranunculus acris	45	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Ranunculus	Ranunculus acris	5	3	8/7/2009 12:00:00 AM
+Alb	AEG50	Ranunculus	Ranunculus acris	10	4	8/9/2009 12:00:00 AM
+Alb	AEG50	Ranunculus	Ranunculus nemorosus	50	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Silene	Silene dioica	2	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Trapogon	Trapogon pratensis	10	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium dubium	20	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium pratense	630	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium pratense	710	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium pratense	360	3	8/7/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium pratense	280	4	8/9/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium repens	560	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium repens	470	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium repens	30	3	8/7/2009 12:00:00 AM
+Alb	AEG50	Trifolium	Trifolium repens	100	4	8/9/2009 12:00:00 AM
+Alb	AEG50	Vicia	Vicia sativa	170	1	7/25/2009 12:00:00 AM
+Alb	AEG50	Vicia	Vicia sativa	350	2	7/29/2009 12:00:00 AM
+Alb	AEG50	Vicia	Vicia sativa	40	3	8/7/2009 12:00:00 AM
+Alb	AEG50	Vicia	Vicia sativa	70	4	8/9/2009 12:00:00 AM
+Alb	AEG7	Anthyllis	Anthyllis vulneraria	290	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Anthyllis	Anthyllis vulneraria	165	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Anthyllis	Anthyllis vulneraria	10	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Asperula	Asperula cyanchica	510	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Asperula	Asperula cyanchica	530	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Asperula	Asperula cyanchica	330	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Asperula	Asperula cyanchica	380	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Campanula	Campanula rotundifolia	60	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Campanula	Campanula rotundifolia	180	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Campanula	Campanula rotundifolia	230	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Campanula	Campanula rotundifolia	210	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Centaurea	Centaurea jacea	15	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Centaurea	Centaurea jacea	30	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Centaurea	Centaurea jacea	105	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Centaurea	Centaurea jacea	20	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Cirsium	Cirsium acaule	30	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	120	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	135	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	275	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	495	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Galium	Galium verum	20	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Helianthemum	Helianthemum nummularium	75	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Helianthemum	Helianthemum nummularium	145	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Helianthemum	Helianthemum nummularium	90	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Helianthemum	Helianthemum nummularium	110	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Hieracium	Hieracium pilosella	35	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Hieracium	Hieracium pilosella	25	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Hypericum	Hypericum perforatum	10	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Hypericum	Hypericum perforatum	10	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Leontodon	Leontodon hispidus	15	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Leontodon	Leontodon hispidus	50	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Leontodon	Leontodon hispidus	20	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Lotus	Lotus corniculatus	300	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Lotus	Lotus corniculatus	300	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Lotus	Lotus corniculatus	130	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Lotus	Lotus corniculatus	160	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Medicago	Medicago lupulina	50	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Ononis	Ononis spinosa	200	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Ononis	Ononis spinosa	190	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Ononis	Ononis spinosa	210	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Ononis	Ononis spinosa	220	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Pimpinella	Pimpinella saxifraga	15	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Pimpinella	Pimpinella saxifraga	130	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Pimpinella	Pimpinella saxifraga	435	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Pimpinella	Pimpinella saxifraga	390	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Plantago	Plantago major	10	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Plantago	Plantago media	65	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Plantago	Plantago media	90	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Plantago	Plantago media	15	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Prunella	Prunella grandiflora	750	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Prunella	Prunella grandiflora	540	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Prunella	Prunella grandiflora	470	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Prunella	Prunella grandiflora	465	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Rhinanthus	Rhinanthus minor	20	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Rhinanthus	Rhinanthus minor	15	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Scabiosa	Scabiosa columbaria	130	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Scabiosa	Scabiosa columbaria	130	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Scabiosa	Scabiosa columbaria	105	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Scabiosa	Scabiosa columbaria	95	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Teucrium	Teucrium montanum	50	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Teucrium	Teucrium montanum	15	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Thymus	Thymus pulegioides	720	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Thymus	Thymus pulegioides	720	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Thymus	Thymus pulegioides	440	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Thymus	Thymus pulegioides	325	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium campestre	20	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium dubium	5	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium dubium	30	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium dubium	10	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium dubium	25	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium pratense	120	1	7/26/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium pratense	120	2	7/30/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium pratense	80	3	8/5/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium pratense	30	4	8/7/2009 12:00:00 AM
+Alb	AEG7	Trifolium	Trifolium repens	5	3	8/5/2009 12:00:00 AM
+Alb	AEG9	Achillea	Achillea millefolium agg.	20	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Achillea	Achillea millefolium agg.	50	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Agrimonia	Agrimonia eupatoria	57	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Agrimonia	Agrimonia eupatoria	80	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Agrimonia	Agrimonia eupatoria	25	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Agrimonia	Agrimonia eupatoria	25	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Asperula	Asperula cyanchica	540	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Asperula	Asperula cyanchica	280	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Asperula	Asperula cyanchica	270	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Asperula	Asperula cyanchica	170	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Campanula	Campanula rotundifolia	32	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Campanula	Campanula rotundifolia	145	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Campanula	Campanula rotundifolia	330	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Campanula	Campanula rotundifolia	270	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Carlina	Carlina acaulis	5	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Cirsium	Cirsium acaule	5	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Cirsium	Cirsium acaule	70	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Daucus	Daucus carota	585	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Daucus	Daucus carota	505	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Daucus	Daucus carota	480	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Daucus	Daucus carota	505	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	155	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	400	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	640	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Euphrasia	Euphrasia officinalis ssp. Rostkoviana	770	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Galium	Galium verum	42	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Galium	Galium verum	50	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Galium	Galium verum	25	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Galium	Galium verum	10	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Helianthemum	Helianthemum nummularium	18	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Helianthemum	Helianthemum nummularium	20	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Helianthemum	Helianthemum nummularium	20	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Hypericum	Hypericum perforatum	20	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Hypericum	Hypericum perforatum	140	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Hypericum	Hypericum perforatum	160	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Hypericum	Hypericum perforatum	150	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Leontodon	Leontodon hispidus	2	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Leontodon	Leontodon hispidus	10	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Leucanthemum	Leucanthemum vulgare	15	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Leucanthemum	Leucanthemum vulgare	5	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Leucanthemum	Leucanthemum vulgare	5	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Lotus	Lotus corniculatus	605	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Lotus	Lotus corniculatus	400	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Lotus	Lotus corniculatus	540	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Lotus	Lotus corniculatus	365	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Medicago	Medicago lupulina	60	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Medicago	Medicago lupulina	120	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Medicago	Medicago lupulina	30	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Ononis	Ononis spinosa	70	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Ononis	Ononis spinosa	5	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Pimpinella	Pimpinella saxifraga	430	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Pimpinella	Pimpinella saxifraga	490	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Pimpinella	Pimpinella saxifraga	515	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Plantago	Plantago major	10	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Plantago	Plantago major	10	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Plantago	Plantago media	25	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Plantago	Plantago media	25	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Prunella	Prunella grandiflora	865	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Prunella	Prunella grandiflora	400	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Prunella	Prunella grandiflora	325	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Prunella	Prunella grandiflora	235	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Rhinanthus	Rhinanthus minor	628	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Rhinanthus	Rhinanthus minor	610	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Rhinanthus	Rhinanthus minor	590	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Rhinanthus	Rhinanthus minor	450	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Scabiosa	Scabiosa columbaria	90	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Scabiosa	Scabiosa columbaria	90	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Scabiosa	Scabiosa columbaria	75	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Scabiosa	Scabiosa columbaria	25	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Senecio	Senecio erucifolius	30	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Senecio	Senecio erucifolius	20	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Senecio	Senecio erucifolius	10	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Silene	Silene dioica	7	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Thymus	Thymus pulegioides	420	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Thymus	Thymus pulegioides	230	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Thymus	Thymus pulegioides	250	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Thymus	Thymus pulegioides	120	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium campestre	55	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium dubium	70	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium pratense	1320	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium pratense	780	2	7/29/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium pratense	445	3	8/6/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium pratense	205	4	8/12/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium repens	65	1	7/24/2009 12:00:00 AM
+Alb	AEG9	Trifolium	Trifolium repens	35	2	7/29/2009 12:00:00 AM
+Hainich	HEG1	Carum	Carum carvi	15	3	8/13/2009 12:00:00 AM
+Hainich	HEG1	Cerastium	Cerastium holosteoides	10	3	8/13/2009 12:00:00 AM
+Hainich	HEG1	Convolvulus	Convolvulus arvensis	5	3	8/13/2009 12:00:00 AM
+Hainich	HEG1	Crepis	Crepis biennis	25	3	8/13/2009 12:00:00 AM
+Hainich	HEG1	Crepis	Crepis biennis	5	2	8/5/2009 12:00:00 AM
+Hainich	HEG1	Crepis	Crepis biennis	30	4	8/20/2009 12:00:00 AM
+Hainich	HEG1	Pimpinella	Pimpinella saxifraga	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG1	Plantago	Plantago lanceolata	5	2	8/5/2009 12:00:00 AM
+Hainich	HEG1	Trifolium	Trifolium pratense	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG1	Trifolium	Trifolium repens	80	1	7/31/2009 12:00:00 AM
+Hainich	HEG1	Trifolium	Trifolium repens	70	2	8/5/2009 12:00:00 AM
+Hainich	HEG1	Trifolium	Trifolium repens	40	3	8/13/2009 12:00:00 AM
+Hainich	HEG1	Trifolium	Trifolium repens	20	4	8/20/2009 12:00:00 AM
+Hainich	HEG13	Achillea	Achillea millefolium agg.	170	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Arctium	Arctium tomentosum	35	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Arctium	Arctium tomentosum	30	2	8/1/2009 12:00:00 AM
+Hainich	HEG13	Arctium	Arctium tomentosum	20	3	8/7/2009 12:00:00 AM
+Hainich	HEG13	Arctium	Arctium tomentosum	10	4	8/15/2009 12:00:00 AM
+Hainich	HEG13	Cichorium	Cichorium intybus	20	4	8/15/2009 12:00:00 AM
+Hainich	HEG13	Crepis	Crepis biennis	30	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Leucanthemum	Leucanthemum vulgare	1860	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Lotus	Lotus corniculatus	20	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Matricaria	Matricaria maritima	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG13	Matricaria	Matricaria maritima	25	4	8/15/2009 12:00:00 AM
+Hainich	HEG13	Matricaria	Matricaria recutita	20	2	8/1/2009 12:00:00 AM
+Hainich	HEG13	Medicago	Medicago lupulina	20	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Pastinaca	Pastinaca sativa	870	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Pastinaca	Pastinaca sativa	50	2	8/1/2009 12:00:00 AM
+Hainich	HEG13	Pastinaca	Pastinaca sativa	30	3	8/7/2009 12:00:00 AM
+Hainich	HEG13	Pastinaca	Pastinaca sativa	30	4	8/15/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium pratense	275	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium pratense	150	2	8/1/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium pratense	50	3	8/7/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium pratense	50	4	8/15/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium repens	4550	1	7/23/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium repens	300	2	8/1/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium repens	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG13	Trifolium	Trifolium repens	10	4	8/15/2009 12:00:00 AM
+Hainich	HEG16	Achillea	Achillea millefolium agg.	290	1	7/31/2009 12:00:00 AM
+Hainich	HEG16	Agrimonia	Agrimonia eupatoria	25	1	7/31/2009 12:00:00 AM
+Hainich	HEG16	Crepis	Crepis biennis	100	1	7/31/2009 12:00:00 AM
+Hainich	HEG16	Geranium	Geranium pratense	10	1	7/31/2009 12:00:00 AM
+Hainich	HEG16	Trifolium	Trifolium pratense	275	1	7/31/2009 12:00:00 AM
+Hainich	HEG16	Trifolium	Trifolium repens	300	1	7/31/2009 12:00:00 AM
+Hainich	HEG16	Ranunculus		45	1	7/31/2009 12:00:00 AM
+Hainich	HEG18	Achillea	Achillea millefolium agg.	40	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Achillea	Achillea millefolium agg.	70	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Achillea	Achillea millefolium agg.	100	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Achillea	Achillea millefolium agg.	40	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Agrimonia	Agrimonia eupatoria	70	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Agrimonia	Agrimonia eupatoria	10	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Agrimonia	Agrimonia eupatoria	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Centaurea	Centaurea jacea	75	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Centaurea	Centaurea jacea	230	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Centaurea	Centaurea jacea	150	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Cirsium	Cirsium acaule	10	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Cirsium	Cirsium acaule	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Cirsium	Cirsium acaule	30	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Daucus	Daucus carota	120	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Daucus	Daucus carota	300	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Daucus	Daucus carota	320	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Daucus	Daucus carota	150	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Genista	Genista tinctoria	50	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Genista	Genista tinctoria	110	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Genista	Genista tinctoria	110	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Genista	Genista tinctoria	60	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Lotus	Lotus corniculatus	140	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Lotus	Lotus corniculatus	580	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Lotus	Lotus corniculatus	270	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Lotus	Lotus corniculatus	160	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Medicago	Medicago lupulina	30	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Ononis	Ononis spinosa	10	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Ononis	Ononis spinosa	190	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Ononis	Ononis spinosa	450	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Ononis	Ononis spinosa	700	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Pimpinella	Pimpinella saxifraga	60	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Pimpinella	Pimpinella saxifraga	50	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Plantago	Plantago media	30	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Plantago	Plantago media	70	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Plantago	Plantago media	30	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Prunella	Prunella vulgaris	25	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Scabiosa	Scabiosa columbaria	10	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Scabiosa	Scabiosa columbaria	60	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Scabiosa	Scabiosa columbaria	20	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Thymus	Thymus pulegioides	160	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Thymus	Thymus pulegioides	20	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Trifolium	Trifolium campestre	10	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Trifolium	Trifolium pratense	130	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Trifolium	Trifolium pratense	210	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Trifolium	Trifolium pratense	80	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Trifolium	Trifolium pratense	20	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Trifolium	Trifolium repens	20	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Trifolium	Trifolium repens	80	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Vicia	Vicia cracca	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Campanula		10	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Euphrasia	Euphrasia officinalis ssp. rostkoviana	60	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Euphrasia	Euphrasia officinalis ssp. rostkoviana	300	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Euphrasia	Euphrasia officinalis ssp. rostkoviana	150	3	8/7/2009 12:00:00 AM
+Hainich	HEG18	Euphrasia	Euphrasia officinalis ssp. rostkoviana	180	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Leontodon	Leontodon hispidus	80	1	7/24/2009 12:00:00 AM
+Hainich	HEG18	Leontodon	Leontodon hispidus	10	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Scabiosa	Scabiosa columbaria	20	4	8/16/2009 12:00:00 AM
+Hainich	HEG18	Thymus	Thymus pulegioides	160	2	8/1/2009 12:00:00 AM
+Hainich	HEG18	Trifolium		20	4	8/16/2009 12:00:00 AM
+Hainich	HEG23	Achillea	Achillea millefolium agg.	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG23	Cichorium	Cichorium intybus	100	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Cichorium	Cichorium intybus	90	3	8/14/2009 12:00:00 AM
+Hainich	HEG23	Convolvulus	Convolvulus arvensis	20	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Crepis	Crepis biennis	500	1	7/28/2009 12:00:00 AM
+Hainich	HEG23	Crepis	Crepis biennis	1200	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Crepis	Crepis biennis	800	3	8/14/2009 12:00:00 AM
+Hainich	HEG23	Crepis	Crepis biennis	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG23	Daucus	Daucus carota	150	1	7/28/2009 12:00:00 AM
+Hainich	HEG23	Daucus	Daucus carota	270	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Daucus	Daucus carota	150	3	8/14/2009 12:00:00 AM
+Hainich	HEG23	Daucus	Daucus carota	60	4	8/20/2009 12:00:00 AM
+Hainich	HEG23	Galium	Galium verum	50	1	7/28/2009 12:00:00 AM
+Hainich	HEG23	Hieracium	Hypericum perforatum	50	1	7/28/2009 12:00:00 AM
+Hainich	HEG23	Hypericum	Hypericum perforatum	30	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Hypericum	Hypericum perforatum	30	4	8/20/2009 12:00:00 AM
+Hainich	HEG23	Lotus	Lotus corniculatus	80	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Lotus	Lotus corniculatus	60	3	8/14/2009 12:00:00 AM
+Hainich	HEG23	Lotus	Lotus corniculatus	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG23	Pimpinella	Pimpinella saxifraga	200	3	8/14/2009 12:00:00 AM
+Hainich	HEG23	Pimpinella	Pimpinella saxifraga	30	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Pimpinella	Pimpinella saxifraga	100	4	8/20/2009 12:00:00 AM
+Hainich	HEG23	Plantago	Plantago lanceolata	90	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Plantago	Plantago lanceolata	15	3	8/14/2009 12:00:00 AM
+Hainich	HEG23	Plantago	Plantago media	50	1	7/28/2009 12:00:00 AM
+Hainich	HEG23	Plantago	Plantago media	50	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Trifolium	Trifolium pratense	200	1	7/28/2009 12:00:00 AM
+Hainich	HEG23	Trifolium	Trifolium pratense	290	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Trifolium	Trifolium pratense	550	3	8/14/2009 12:00:00 AM
+Hainich	HEG23	Trifolium	Trifolium pratense	120	4	8/20/2009 12:00:00 AM
+Hainich	HEG23	Trifolium	Trifolium repens	100	1	7/28/2009 12:00:00 AM
+Hainich	HEG23	Trifolium	Trifolium repens	70	2	8/6/2009 12:00:00 AM
+Hainich	HEG23	Trifolium	Trifolium repens	30	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Achillea	Achillea millefolium agg.	2000	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Achillea	Achillea millefolium agg.	660	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Achillea	Achillea millefolium agg.	700	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Achillea	Achillea millefolium agg.	80	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Anthriscus	Anthriscus sylvestris	7000	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Arctium	Arctium tomentosum	160	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Arctium	Arctium tomentosum	90	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Arctium	Arctium tomentosum	180	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Arctium	Arctium tomentosum	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Carum	Carum carvi	3500	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Cichorium	Cichorium intybus	10	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Cichorium	Cichorium intybus	90	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Cichorium	Cichorium intybus	50	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Convolvulus	Convolvulus arvensis	50	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Convolvulus	Convolvulus arvensis	30	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Convolvulus	Convolvulus arvensis	20	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Crepis	Crepis biennis	2600	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Crepis	Crepis biennis	2300	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Crepis	Crepis biennis	1900	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Crepis	Crepis biennis	100	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Daucus	Daucus carota	1200	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Daucus	Daucus carota	650	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Daucus	Daucus carota	400	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Daucus	Daucus carota	300	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Heracleum	Heracleum sphondylium	850	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Heracleum	Heracleum sphondylium	620	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Heracleum	Heracleum sphondylium	150	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Pimpinella	Pimpinella saxifraga	1050	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Pimpinella	Pimpinella saxifraga	2950	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Pimpinella	Pimpinella saxifraga	300	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Prunella	Prunella vulgaris	50	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Prunella	Prunella vulgaris	50	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Trifolium	Trifolium pratense	3000	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Trifolium	Trifolium pratense	2700	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Trifolium	Trifolium pratense	2800	3	8/14/2009 12:00:00 AM
+Hainich	HEG24	Trifolium	Trifolium pratense	600	4	8/20/2009 12:00:00 AM
+Hainich	HEG24	Trifolium	Trifolium repens	200	1	7/28/2009 12:00:00 AM
+Hainich	HEG24	Vicia	Vicia cracca	10	2	8/6/2009 12:00:00 AM
+Hainich	HEG24	Vicia	Vicia cracca	20	3	8/14/2009 12:00:00 AM
+Hainich	HEG25	Achillea	Achillea millefolium agg.	100	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Achillea	Achillea millefolium agg.	170	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Achillea	Achillea millefolium agg.	150	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Agrimonia	Agrimonia eupatoria	80	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Agrimonia	Agrimonia eupatoria	120	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Agrimonia	Agrimonia eupatoria	30	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Carum	Carum carvi	200	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Centaurea	Centaurea jacea	190	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Centaurea	Centaurea jacea	530	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Centaurea	Centaurea jacea	1400	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Centaurea	Centaurea jacea	500	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Convolvulus	Convolvulus arvensis	50	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Convolvulus	Convolvulus arvensis	5	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Crepis	Crepis biennis	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Crepis	Crepis biennis	10	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Crepis	Crepis biennis	20	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Daucus	Daucus carota	3500	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Daucus	Daucus carota	4150	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Daucus	Daucus carota	1100	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Daucus	Daucus carota	800	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Galium	Galium verum	1000	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Galium	Galium verum	30	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Hieracium	Hypericum perforatum	1300	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Hypericum	Hypericum perforatum	210	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Hypericum	Hypericum perforatum	150	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Hypericum	Hypericum perforatum	130	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Knautia	Knautia arvensis	90	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Knautia	Knautia arvensis	310	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Knautia	Knautia arvensis	70	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Knautia	Knautia arvensis	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Lathyrus	Lathyrus pratensis	500	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Lotus	Lotus corniculatus	170	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Lotus	Lotus corniculatus	450	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Lotus	Lotus corniculatus	300	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Lotus	Lotus corniculatus	300	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Medicago	Medicago lupulina	100	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Odontites	Odontites vulgaris	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Ononis	Ononis spinosa	200	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Ononis	Ononis spinosa	50	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Ononis	Ononis spinosa	80	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Pastinaca	Pastinaca sativa	100	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Pastinaca	Pastinaca sativa	30	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Pimpinella	Pimpinella saxifraga	400	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Pimpinella	Pimpinella saxifraga	50	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Pimpinella	Pimpinella saxifraga	150	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Senecio	Senecio erucifolius	70	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Senecio	Senecio erucifolius	50	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Senecio	Senecio erucifolius	100	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Tanacetum	Tanacetum vulgare	50	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Tanacetum	Tanacetum vulgare	300	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Tanacetum	Tanacetum vulgare	300	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Tanacetum	Tanacetum vulgare	80	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Trifolium	Trifolium campestre	100	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Trifolium	Trifolium pratense	100	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Trifolium	Trifolium pratense	50	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Trifolium	Trifolium pratense	30	3	8/13/2009 12:00:00 AM
+Hainich	HEG25	Trifolium	Trifolium pratense	30	4	8/20/2009 12:00:00 AM
+Hainich	HEG25	Vicia	Vicia cracca	1560	1	7/28/2009 12:00:00 AM
+Hainich	HEG25	Vicia	Vicia cracca	450	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Galium	Galium verum	300	2	8/5/2009 12:00:00 AM
+Hainich	HEG25	Vicia	Vicia cracca	80	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Agrimonia	Agrimonia eupatoria	5	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Cirsium	Cirsium arvense	20	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Convolvulus	Convolvulus arvensis	15	1	7/28/2009 12:00:00 AM
+Hainich	HEG3	Convolvulus	Convolvulus arvensis	5	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Crepis	Crepis biennis	20	1	7/28/2009 12:00:00 AM
+Hainich	HEG3	Crepis	Crepis biennis	20	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Crepis	Crepis biennis	15	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Crepis	Crepis biennis	20	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Crepis	Crepis biennis	5	4	8/20/2009 12:00:00 AM
+Hainich	HEG3	Daucus	Daucus carota	30	1	7/28/2009 12:00:00 AM
+Hainich	HEG3	Daucus	Daucus carota	60	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Daucus	Daucus carota	70	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Daucus	Daucus carota	30	4	8/20/2009 12:00:00 AM
+Hainich	HEG3	Heracleum	Heracleum sphondylium	500	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Lotus	Lotus corniculatus	10	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Matricaria	Matricaria maritima	20	4	8/20/2009 12:00:00 AM
+Hainich	HEG3	Matricaria	Matricaria recutita	10	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Matricaria	Matricaria recutita	10	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Trifolium	Trifolium pratense	10	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Trifolium	Trifolium repens	70	1	7/28/2009 12:00:00 AM
+Hainich	HEG3	Trifolium	Trifolium repens	50	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Trifolium	Trifolium repens	25	3	8/13/2009 12:00:00 AM
+Hainich	HEG3	Vicia	Vicia cracca	10	1	7/28/2009 12:00:00 AM
+Hainich	HEG3	Vicia	Vicia cracca	10	2	8/1/2009 12:00:00 AM
+Hainich	HEG3	Vicia	Vicia cracca	15	3	8/13/2009 12:00:00 AM
+Hainich	HEG32	Achillea	Achillea millefolium agg.	30	4	8/19/2009 12:00:00 AM
+Hainich	HEG32	Arctium	Arctium tomentosum	10	2	8/4/2009 12:00:00 AM
+Hainich	HEG32	Arctium	Arctium tomentosum	40	3	8/9/2009 12:00:00 AM
+Hainich	HEG32	Arctium	Arctium tomentosum	20	4	8/19/2009 12:00:00 AM
+Hainich	HEG32	Convolvulus	Convolvulus arvensis	20	3	8/9/2009 12:00:00 AM
+Hainich	HEG32	Convolvulus	Convolvulus arvensis	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG32	Crepis	Crepis biennis	950	1	7/27/2009 12:00:00 AM
+Hainich	HEG32	Crepis	Crepis biennis	180	2	8/4/2009 12:00:00 AM
+Hainich	HEG32	Crepis	Crepis biennis	700	3	8/9/2009 12:00:00 AM
+Hainich	HEG32	Crepis	Crepis biennis	120	4	8/19/2009 12:00:00 AM
+Hainich	HEG32	Pastinaca	Pastinaca sativa	20	1	7/27/2009 12:00:00 AM
+Hainich	HEG32	Pastinaca	Pastinaca sativa	130	2	8/4/2009 12:00:00 AM
+Hainich	HEG32	Pastinaca	Pastinaca sativa	40	3	8/9/2009 12:00:00 AM
+Hainich	HEG32	Pastinaca	Pastinaca sativa	25	4	8/19/2009 12:00:00 AM
+Hainich	HEG32	Trifolium	Trifolium hybridum	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG32	Trifolium	Trifolium hybridum	10	3	8/9/2009 12:00:00 AM
+Hainich	HEG32	Trifolium	Trifolium pratense	50	1	7/27/2009 12:00:00 AM
+Hainich	HEG32	Trifolium	Trifolium pratense	30	2	8/4/2009 12:00:00 AM
+Hainich	HEG32	Trifolium	Trifolium pratense	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG32	Trifolium	Trifolium repens	40	1	7/27/2009 12:00:00 AM
+Hainich	HEG32	Trifolium	Trifolium repens	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG34	Crepis	Crepis biennis	1210	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Crepis	Crepis biennis	360	2	8/1/2009 12:00:00 AM
+Hainich	HEG34	Crepis	Crepis biennis	200	3	8/6/2009 12:00:00 AM
+Hainich	HEG34	Heracleum	Heracleum sphondylium	10	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Lotus	Lotus corniculatus	100	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Lotus	Lotus corniculatus	50	2	8/1/2009 12:00:00 AM
+Hainich	HEG34	Lotus	Lotus corniculatus	190	3	8/6/2009 12:00:00 AM
+Hainich	HEG34	Medicago	Medicago lupulina	20	2	8/1/2009 12:00:00 AM
+Hainich	HEG34	Odontites	Odontites vulgaris	30	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Odontites	Odontites vulgaris	40	2	8/1/2009 12:00:00 AM
+Hainich	HEG34	Odontites	Odontites vulgaris	30	3	8/6/2009 12:00:00 AM
+Hainich	HEG34	Plantago	Plantago lanceolata	20	3	8/6/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium campestre	50	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium fragiferum	65	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium fragiferum	60	2	8/1/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium fragiferum	110	3	8/6/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium pratense	75	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium pratense	90	2	8/1/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium pratense	170	3	8/6/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium repens	3150	1	7/26/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium repens	880	2	8/1/2009 12:00:00 AM
+Hainich	HEG34	Trifolium	Trifolium repens	870	3	8/6/2009 12:00:00 AM
+Hainich	HEG34	Vicia	Vicia cracca	10	3	8/6/2009 12:00:00 AM
+Hainich	HEG35	Achillea	Achillea millefolium agg.	80	1	7/24/2009 12:00:00 AM
+Hainich	HEG35	Achillea	Achillea millefolium agg.	250	2	8/1/2009 12:00:00 AM
+Hainich	HEG35	Achillea	Achillea millefolium agg.	720	3	8/7/2009 12:00:00 AM
+Hainich	HEG35	Achillea	Achillea millefolium agg.	450	4	8/15/2009 12:00:00 AM
+Hainich	HEG35	Arctium	Arctium tomentosum	10	1	7/24/2009 12:00:00 AM
+Hainich	HEG35	Arctium	Arctium tomentosum	30	2	8/1/2009 12:00:00 AM
+Hainich	HEG35	Arctium	Arctium tomentosum	50	3	8/7/2009 12:00:00 AM
+Hainich	HEG35	Arctium	Arctium tomentosum	150	4	8/15/2009 12:00:00 AM
+Hainich	HEG35	Carum	Carum carvi	70	3	8/7/2009 12:00:00 AM
+Hainich	HEG35	Cirsium	Cirsium arvense	10	4	8/15/2009 12:00:00 AM
+Hainich	HEG35	Heracleum	Heracleum sphondylium	10	1	7/24/2009 12:00:00 AM
+Hainich	HEG35	Heracleum	Heracleum sphondylium	150	2	8/1/2009 12:00:00 AM
+Hainich	HEG35	Heracleum	Heracleum sphondylium	600	3	8/7/2009 12:00:00 AM
+Hainich	HEG35	Heracleum	Heracleum sphondylium	150	4	8/15/2009 12:00:00 AM
+Hainich	HEG35	Lotus	Lotus corniculatus	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG35	Pimpinella	Pimpinella saxifraga	30	2	8/1/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium pratense	35	1	7/24/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium pratense	70	2	8/1/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium pratense	70	3	8/7/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium pratense	100	4	8/15/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium repens	2300	1	7/24/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium repens	1050	2	8/1/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium repens	1200	3	8/7/2009 12:00:00 AM
+Hainich	HEG35	Trifolium	Trifolium repens	300	4	8/15/2009 12:00:00 AM
+Hainich	HEG35	Ranunculus		20	1	7/24/2009 12:00:00 AM
+Hainich	HEG37	Achillea	Achillea millefolium agg.	40	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Agrimonia	Agrimonia eupatoria	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Agrimonia	Agrimonia eupatoria	20	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Centaurea	Centaurea jacea	10	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Convolvulus	Convolvulus arvensis	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Crepis	Crepis biennis	50	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Crepis	Crepis biennis	30	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Crepis	Crepis biennis	350	4	8/20/2009 12:00:00 AM
+Hainich	HEG37	Daucus	Daucus carota	150	1	7/27/2009 12:00:00 AM
+Hainich	HEG37	Daucus	Daucus carota	300	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Daucus	Daucus carota	400	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Lotus	Lotus corniculatus	60	1	7/27/2009 12:00:00 AM
+Hainich	HEG37	Lotus	Lotus corniculatus	250	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Lotus	Lotus corniculatus	50	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Medicago	Medicago lupulina	30	1	7/27/2009 12:00:00 AM
+Hainich	HEG37	Medicago	Medicago lupulina	20	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Pastinaca	Pastinaca sativa	20	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Pastinaca	Pastinaca sativa	60	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Pimpinella	Pimpinella saxifraga	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium pratense	150	1	7/27/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium pratense	200	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium pratense	200	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium pratense	20	4	8/20/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium repens	150	1	7/27/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium repens	50	2	8/5/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium repens	30	3	8/9/2009 12:00:00 AM
+Hainich	HEG37	Trifolium	Trifolium repens	50	4	8/20/2009 12:00:00 AM
+Hainich	HEG37	Vicia	Vicia cracca	15	2	8/5/2009 12:00:00 AM
+Hainich	HEG4	Achillea	Achillea millefolium agg.	80	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Achillea	Achillea millefolium agg.	100	2	8/1/2009 12:00:00 AM
+Hainich	HEG4	Arctium	Arctium tomentosum	40	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Arctium	Arctium tomentosum	90	2	8/1/2009 12:00:00 AM
+Hainich	HEG4	Arctium	Arctium tomentosum	40	4	8/15/2009 12:00:00 AM
+Hainich	HEG4	Cirsium	Cirsium arvense	25	2	8/1/2009 12:00:00 AM
+Hainich	HEG4	Cirsium	Cirsium arvense	20	4	8/15/2009 12:00:00 AM
+Hainich	HEG4	Crepis	Crepis biennis	45	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Crepis	Crepis biennis	210	2	8/1/2009 12:00:00 AM
+Hainich	HEG4	Crepis	Crepis biennis	20	4	8/15/2009 12:00:00 AM
+Hainich	HEG4	Heracleum	Heracleum sphondylium	5000	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Heracleum	Heracleum sphondylium	4000	2	8/1/2009 12:00:00 AM
+Hainich	HEG4	Heracleum	Heracleum sphondylium	40	4	8/15/2009 12:00:00 AM
+Hainich	HEG4	Achillea	Achillea millefolium agg.	20	4	8/15/2009 12:00:00 AM
+Hainich	HEG4	Pastinaca	Pastinaca sativa	30	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Trifolium	Trifolium pratense	10	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Trifolium	Trifolium pratense	50	2	8/1/2009 12:00:00 AM
+Hainich	HEG4	Trifolium	Trifolium repens	40	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Ranunculus		10	1	7/23/2009 12:00:00 AM
+Hainich	HEG4	Ranunculus		10	2	8/1/2009 12:00:00 AM
+Hainich	HEG42	Achillea	Achillea millefolium agg.	250	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Achillea	Achillea millefolium agg.	450	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Achillea	Achillea millefolium agg.	500	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Achillea	Achillea millefolium agg.	100	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Agrimonia	Agrimonia eupatoria	340	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Agrimonia	Agrimonia eupatoria	200	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Agrimonia	Agrimonia eupatoria	350	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Centaurea	Centaurea jacea	50	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Centaurea	Centaurea jacea	900	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Centaurea	Centaurea jacea	4800	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Centaurea	Centaurea jacea	2650	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Cichorium	Cichorium intybus	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Cichorium	Cichorium intybus	180	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Cirsium	Cirsium acaule	30	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Crepis	Crepis biennis	45	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Crepis	Crepis biennis	800	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Crepis	Crepis biennis	1200	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Crepis	Crepis biennis	400	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Daucus	Daucus carota	50	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Daucus	Daucus carota	870	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Daucus	Daucus carota	300	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Daucus	Daucus carota	600	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Hieracium	Hypericum perforatum	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Hypericum	Hypericum perforatum	100	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Hypericum	Hypericum perforatum	20	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Lotus	Lotus corniculatus	650	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Lotus	Lotus corniculatus	2900	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Lotus	Lotus corniculatus	2200	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Lotus	Lotus corniculatus	2000	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Medicago	Medicago lupulina	50	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Odontites	Odontites vulgaris	100	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Pastinaca	Pastinaca sativa	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Pimpinella	Pimpinella saxifraga	350	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Pimpinella	Pimpinella saxifraga	1300	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Pimpinella	Pimpinella saxifraga	1300	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Pimpinella	Pimpinella saxifraga	200	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Plantago	Plantago media	30	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Plantago	Plantago media	60	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Prunella	Prunella vulgaris	60	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Prunella	Prunella vulgaris	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Prunella	Prunella vulgaris	200	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Senecio	Senecio jacobaea	20	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Senecio	Senecio jacobaea	30	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium pratense	180	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium pratense	550	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium pratense	570	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium pratense	300	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium repens	100	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium repens	60	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium repens	50	3	8/8/2009 12:00:00 AM
+Hainich	HEG42	Trifolium	Trifolium repens	30	4	8/19/2009 12:00:00 AM
+Hainich	HEG42	Vicia	Vicia cracca	20	1	7/27/2009 12:00:00 AM
+Hainich	HEG42	Vicia	Vicia cracca	30	2	8/4/2009 12:00:00 AM
+Hainich	HEG42	Vicia	Vicia cracca	100	3	8/8/2009 12:00:00 AM
+Hainich	HEG43	Achillea	Achillea millefolium agg.	50	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Achillea	Achillea millefolium agg.	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Agrimonia	Agrimonia eupatoria	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Bellis	Bellis perennis	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Campanula	Campanula rotundifolia	25	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Campanula	Campanula rotundifolia	40	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Centaurea	Centaurea jacea	120	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Centaurea	Centaurea jacea	20	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Centaurea	Centaurea scabiosa	10	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Centaurea	Centaurea scabiosa	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Centaurium	Centaurium erythraea	30	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Centaurium	Centaurium erythraea	5	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Leucanthemum	Leucanthemum vulgare	135	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Leucanthemum	Leucanthemum vulgare	260	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Cirsium	Cirsium acaule	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Cirsium	Cirsium acaule	50	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Cirsium	Cirsium acaule	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Crepis	Crepis biennis	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Daucus	Daucus carota	300	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Hypericum	Hypericum perforatum	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Hypericum	Hypericum perforatum	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Knautia	Knautia arvensis	30	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Lotus	Lotus corniculatus	250	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Lotus	Lotus corniculatus	450	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Lotus	Lotus corniculatus	50	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Medicago	Medicago falcata	50	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Odontites	Odontites vulgaris	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Ononis	Ononis spinosa	430	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Ononis	Ononis spinosa	40	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Ononis	Ononis spinosa	1000	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Pimpinella	Pimpinella saxifraga	220	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Pimpinella	Pimpinella saxifraga	700	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Pimpinella	Pimpinella saxifraga	100	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Plantago	Plantago media	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Plantago	Plantago media	40	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Senecio	Senecio jacobaea	10	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Trifolium	Trifolium campestre	30	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Trifolium	Trifolium pratense	310	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Trifolium	Trifolium pratense	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Trifolium	Trifolium pratense	15	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Trifolium	Trifolium repens	50	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Vicia	Vicia cracca	80	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Vicia	Vicia cracca	10	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Campanula		10	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Leontodon	Leontodon hispidus	70	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Leontodon	Leontodon hispidus	280	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Thymus	Thymus pulegioides	400	1	7/26/2009 12:00:00 AM
+Hainich	HEG43	Thymus	Thymus pulegioides	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG43	Thymus	Thymus pulegioides	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG43	Trifolium		40	4	8/19/2009 12:00:00 AM
+Hainich	HEG44	Achillea	Achillea millefolium agg.	50	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Achillea	Achillea millefolium agg.	160	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Agrimonia	Agrimonia eupatoria	60	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Agrimonia	Agrimonia eupatoria	140	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Carduus	Carduus ancanthoides	10	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Centaurea	Centaurea jacea	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Cirsium	Cirsium vulgare	25	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Crepis	Crepis biennis	20	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Crepis	Crepis biennis	225	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Daucus	Daucus carota	50	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Daucus	Daucus carota	310	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Galium	Galium verum	700	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Galium	Galium verum	450	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Geranium	Geranium dissectum	30	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Geranium	Geranium dissectum	30	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Hypericum	Hypericum perforatum	20	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Hypericum	Hypericum perforatum	70	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Lotus	Lotus corniculatus	280	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Lotus	Lotus corniculatus	290	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Medicago	Medicago lupulina	50	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Medicago	Medicago lupulina	50	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Pimpinella	Pimpinella saxifraga	550	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Plantago	Plantago media	50	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Plantago	Plantago media	40	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Scabiosa	Scabiosa columbaria	20	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Scabiosa	Scabiosa columbaria	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Trifolium	Trifolium campestre	100	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Trifolium	Trifolium campestre	270	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Trifolium	Trifolium pratense	110	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Trifolium	Trifolium pratense	120	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Trifolium	Trifolium repens	80	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Trifolium	Trifolium repens	45	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Vicia	Vicia cracca	10	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Vicia	Vicia cracca	10	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Campanula		20	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Euphrasia	Euphrasia officinalis ssp. rostkoviana	30	2	8/5/2009 12:00:00 AM
+Hainich	HEG44	Galium	Galium mollugo agg.	30	1	7/27/2009 12:00:00 AM
+Hainich	HEG44	Pimpinella	Pimpinella saxifraga	150	1	7/27/2009 12:00:00 AM
+Hainich	HEG46	Achillea	Achillea millefolium agg.	30	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Achillea	Achillea millefolium agg.	50	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Achillea	Achillea millefolium agg.	100	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Achillea	Achillea millefolium agg.	30	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Agrimonia	Agrimonia eupatoria	30	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Agrimonia	Agrimonia eupatoria	20	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Carduus	Carduus ancanthoides	10	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Carum	Carum carvi	100	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Carum	Carum carvi	50	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Centaurea	Centaurea jacea	10	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Centaurea	Centaurea jacea	50	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Centaurea	Centaurea scabiosa	30	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Centaurea	Centaurea scabiosa	30	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Centaurea	Centaurea scabiosa	10	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Centaurea	Centaurea scabiosa	5	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Leucanthemum	Leucanthemum vulgare	220	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Leucanthemum	Leucanthemum vulgare	500	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Leucanthemum	Leucanthemum vulgare	500	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Leucanthemum	Leucanthemum vulgare	50	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Cichorium	Cichorium intybus	20	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Cichorium	Cichorium intybus	15	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Crepis	Crepis biennis	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Crepis	Crepis biennis	500	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Crepis	Crepis biennis	180	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Daucus	Daucus carota	250	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Daucus	Daucus carota	550	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Daucus	Daucus carota	2300	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Daucus	Daucus carota	300	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Dipsacus	Dipsacus sylvestris	10	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Genista	Genista tinctoria	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Genista	Genista tinctoria	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Hypericum	Hypericum perforatum	50	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Hypericum	Hypericum perforatum	20	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Lotus	Lotus corniculatus	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Lotus	Lotus corniculatus	200	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Lotus	Lotus corniculatus	20	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Medicago	Medicago falcata	50	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Medicago	Medicago lupulina	50	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Medicago	Medicago lupulina	70	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Medicago	Medicago sativa	30	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Medicago	Medicago sativa	120	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Medicago	Medicago sativa	40	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Ononis	Ononis spinosa	50	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Pimpinella	Pimpinella saxifraga	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Scabiosa	Scabiosa columbaria	60	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Scabiosa	Scabiosa columbaria	100	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Scabiosa	Scabiosa columbaria	40	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Scabiosa	Scabiosa columbaria	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Senecio	Senecio erucifolius	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Trifolium	Trifolium pratense	20	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Trifolium	Trifolium pratense	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Vicia	Vicia cracca	40	1	7/26/2009 12:00:00 AM
+Hainich	HEG46	Vicia	Vicia cracca	150	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Vicia	Vicia cracca	50	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Vicia	Vicia cracca	10	4	8/19/2009 12:00:00 AM
+Hainich	HEG46	Agrimonia	Agrimonia eupatoria	20	2	8/4/2009 12:00:00 AM
+Hainich	HEG46	Medicago	Medicago sativa	70	3	8/8/2009 12:00:00 AM
+Hainich	HEG46	Pimpinella	Pimpinella saxifraga	20	3	8/8/2009 12:00:00 AM
+Hainich	HEG5	Achillea	Achillea millefolium agg.	20	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Achillea	Achillea millefolium agg.	70	2	8/1/2009 12:00:00 AM
+Hainich	HEG5	Achillea	Achillea millefolium agg.	150	3	8/6/2009 12:00:00 AM
+Hainich	HEG5	Achillea	Achillea millefolium agg.	200	4	8/15/2009 12:00:00 AM
+Hainich	HEG5	Centaurea	Centaurea jacea	10	4	8/15/2009 12:00:00 AM
+Hainich	HEG5	Crepis	Crepis biennis	1350	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Crepis	Crepis biennis	1300	2	8/1/2009 12:00:00 AM
+Hainich	HEG5	Crepis	Crepis biennis	900	3	8/6/2009 12:00:00 AM
+Hainich	HEG5	Crepis	Crepis biennis	1200	4	8/15/2009 12:00:00 AM
+Hainich	HEG5	Lotus	Lotus corniculatus	10	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Lotus	Lotus corniculatus	10	3	8/6/2009 12:00:00 AM
+Hainich	HEG5	Pimpinella	Pimpinella saxifraga	50	3	8/6/2009 12:00:00 AM
+Hainich	HEG5	Pimpinella	Pimpinella saxifraga	110	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Pimpinella	Pimpinella saxifraga	50	2	8/1/2009 12:00:00 AM
+Hainich	HEG5	Prunella	Prunella vulgaris	400	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Prunella	Prunella vulgaris	80	2	8/1/2009 12:00:00 AM
+Hainich	HEG5	Prunella	Prunella vulgaris	430	3	8/6/2009 12:00:00 AM
+Hainich	HEG5	Prunella	Prunella vulgaris	50	4	8/15/2009 12:00:00 AM
+Hainich	HEG5	Trifolium	Trifolium pratense	40	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Trifolium	Trifolium pratense	20	3	8/6/2009 12:00:00 AM
+Hainich	HEG5	Trifolium	Trifolium repens	1550	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Trifolium	Trifolium repens	300	2	8/1/2009 12:00:00 AM
+Hainich	HEG5	Trifolium	Trifolium repens	200	3	8/6/2009 12:00:00 AM
+Hainich	HEG5	Myosotis		80	1	7/22/2009 12:00:00 AM
+Hainich	HEG5	Ranunculus		35	1	7/22/2009 12:00:00 AM
+Hainich	HEG9	Achillea	Achillea millefolium agg.	40	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Achillea	Achillea millefolium agg.	90	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Achillea	Achillea millefolium agg.	50	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Agrimonia	Agrimonia eupatoria	130	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Agrimonia	Agrimonia eupatoria	95	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Centaurea	Centaurea jacea	100	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Centaurea	Centaurea jacea	170	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Leucanthemum	Leucanthemum vulgare	30	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Leucanthemum	Leucanthemum vulgare	35	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Cichorium	Cichorium intybus	200	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Cichorium	Cichorium intybus	20	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Cirsium	Cirsium acaule	40	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Cirsium	Cirsium acaule	40	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Crepis	Crepis biennis	170	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Crepis	Crepis biennis	20	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Daucus	Daucus carota	65	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Daucus	Daucus carota	40	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Leucanthemum	Leucanthemum vulgare	20	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Linum	Linum catharticum	120	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Lotus	Lotus corniculatus	1300	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Lotus	Lotus corniculatus	2200	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Lotus	Lotus corniculatus	1450	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Medicago	Medicago falcata	220	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Medicago	Medicago lupulina	1600	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Medicago	Medicago lupulina	70	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Melilotus	Melilotus officinalis	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Ononis	Ononis spinosa	2200	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Ononis	Ononis spinosa	2600	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Ononis	Ononis spinosa	1150	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Pimpinella	Pimpinella saxifraga	70	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Pimpinella	Pimpinella saxifraga	400	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Pimpinella	Pimpinella saxifraga	250	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Plantago	Plantago media	200	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Plantago	Plantago media	70	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Plantago	Plantago media	20	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Prunella	Prunella vulgaris	50	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Scabiosa	Scabiosa columbaria	10	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Thymus	Thymus pulegioides	30	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium hybridum	20	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium hybridum	50	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium pratense	410	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium pratense	220	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium pratense	230	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium repens	420	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium repens	80	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Trifolium	Trifolium repens	50	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Vicia	Vicia cracca	10	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Euphrasia	Euphrasia officinalis ssp. rostkoviana	40	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Euphrasia	Euphrasia officinalis ssp. rostkoviana	100	3	8/7/2009 12:00:00 AM
+Hainich	HEG9	Euphrasia	Euphrasia officinalis ssp. rostkoviana	50	4	8/15/2009 12:00:00 AM
+Hainich	HEG9	Leontodon	Leontodon hispidus	150	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Prunella	Prunella vulgaris	30	1	7/23/2009 12:00:00 AM
+Hainich	HEG9	Thymus	Thymus pulegioides	10	3	8/7/2009 12:00:00 AM
