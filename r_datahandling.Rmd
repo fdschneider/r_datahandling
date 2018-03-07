@@ -14,11 +14,11 @@ This workshop covers basic and advanced data handling in R.
 
 We will talk about how to
 
-- prepare raw data for R (using Excel or Libre office)
+- prepare raw data for R
 - read data into R and write file output from R
-- access columns and rows
-- review your data (getting summaries etc.)
+- selectively access columns and rows
 - fix errors in your data, deal with missing data etc.
+- review your data (getting summaries etc.)
 - add columns or covariates
 
 and more advanced: 
@@ -35,8 +35,8 @@ The commands and examples are tested for R > v3.0! Please run the follwing comma
 install.packages(c("getPass", "RCurl", "XML", "dplyr", "tidyr", "ggplot2"))
 ```
 
-```{r load packages, message=FALSE, warning=, include=FALSE}
-require("getPass"); #require("RCurl"); require("XML")
+```{r load packages, message=FALSE, warning=FALSE, include=FALSE}
+require("getPass")
 require("dplyr"); require("tidyr"); require("ggplot2")
 ```
 
@@ -60,18 +60,11 @@ This lesson assumes basic knowledge in R, like
 If you don't feel comfortable with these topics, please walk through this basic script before the workshop: 
 http://fdschneider.de/r_basics/ 
 
-
-```{r, echo = FALSE}
-d1 <- read.csv("d1.csv")
-d2 <- read.csv("d2.csv")
-```
-
 ## Online reference
 
+The presentation script and exercise can be found at http://fdschneider.de/r_datahandling/!
 
-**The presentation script and exercise can be found [here]()!**
-
-Please report difficulties on my Github page: . 
+Please report difficulties or errors on my Github page: https://github.com/fdschneider/r_datahandling/issues. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">R data handling script</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Florian D. Schneider</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
@@ -99,6 +92,8 @@ Of course, R will be able to read in data tables of any structure. Any data stru
 - **rely on cell formatting** to make your file informative, e.g. colored cells or bold font. This information is lost when opening the file in R.   
 - **keep empty lines**: make sure to eliminate blank space (rows or columns). (missing data values are okay!)
 
+![](assets/excel_bad.png) 
+
 ## header
 
 Ideally, your raw-data file will have precisely one header row (not two rows, no empty rows!), that contains column names. 
@@ -112,19 +107,23 @@ The **column names** should
 
 I recommend that you use **english column names** from the start. That makes it easier to publish or share your data. 
 
+![](assets/excel.png)
+
 ## values
 
 Keep in mind that there are different types of values which come with different implications for computation (and file size):
 
 - **numerical values**: these are usually continuous float numbers, with a certain amount of decimal places (e.g. "0.00032", "13", or "240000"). They may also be discrete integer values (which is a fundamental difference when it comes to statistics and plotting).
-- **factorial values**: these are character strings from a defined vocabulary of ordered or unordered factor levels, like  sometimes you use own codes (e.g. "a, b, c", or "aew, hew, sew", or treatment levels like "low", "medium", "high"). Make sure those are harmonized throughout the raw-data file (e.g. don't mix "Yes" and "yes" values!)!  A special case of factorial values are binaries (e.g. "TRUE"/"FALSE" or "Y"/"N" or "0"/"1") 
+- **categorical/factorial values**: these are character strings from a defined vocabulary of ordered or unordered factor levels, like  sometimes you use own codes (e.g. "a, b, c", or "aew, hew, sew", or treatment levels like "low", "medium", "high"). Make sure those are harmonized throughout the raw-data file (e.g. don't mix "Yes" and "yes" values!)!  A special case of factorial values are binaries (e.g. "TRUE"/"FALSE" or "Y"/"N" or "0"/"1") 
 - **missing values**: there is no clear convention. Often those are labelled "NA" for true missing values, or just empty "" if the value does not apply to the data set. Some authors use clear markers which can easily be filtered, like "999".  
 All this helps to keep your data files simple and unambiguous and forces you to use a clear structure. Ideally, the data file is static and not used for calculations. All calculations and transformations of your data are done in R!
 - **weird values**: like date & time, geolocation, DOIs & URLs. These require particular packages and functions for handling in R. Make sure to document their meaning and format in the README file. 
 
 Some columns may contain comments or warnings, specific explanations etc. In R these are considered as character strings (e.g. "Data missing because of bad weather conditions.") and are not exactly used for data analysis. 
 
-# 2. read raw data 
+---
+
+# 2. Read raw data 
 
 R can read data tables of many file formats but the most basic file format are pure text files (.csv, .txt), where columns are separated by line breaks and rows are separated by a 'Separator', which is usually a comma (hence .csv = **c**omma **s**eparated **v**alue). 
 
@@ -153,20 +152,22 @@ Importing data probably does not work right away. The R environment typically as
 
 1. giving an absolute path for the file
 ```{r, eval= FALSE}
-  d1 <- read.csv("C:/Windows/Users/florian.schneider/Documents/projects/stats/rbasics/d1.csv")
+  d1 <- read.table("C:/Windows/Users/florian.schneider/Documents/projects/stats/r_datsahandling/data/12807/12807.txt")
 ```
   This can be very long, and will not work, if you switch to a different computer or share the file with colleagues. 
   
 2. setting the working directory for R prior to loading the file and call a relative path for the file
 ```{r, eval = FALSE}
-  setwd("G:/uni/projects/stats/rbasics/")
-  d1 <- read.csv("data/d1.csv")
+  setwd("G:/uni/projects/stats/r_datahandling/")
+  d1 <- read.csv("data/12807/12807.txt")
 ```
 ```{r, echo = FALSE}
-  d1 <- read.csv("data/d1.csv")
+  d1 <- read.table("data/12807/12807.txt", sep = "\t", header  = TRUE )
+  d2 <- read.table("data/13426/13426.txt", sep = "\t", header  = TRUE )
+
 ```
 
-The simplest way to manage working directories and relative paths is to use RStudio projects. For each project, RStudio will assume the working directory in the project root directory. If you open the project on a different computer or move it around on your computer, R will still find the relative paths. 
+**Advanced Note:** The simplest way to manage working directories and relative paths is to use RStudio projects. For each project, RStudio will assume the working directory in the project root directory. If you open the project on a different computer or move it around on your computer, R will still find the relative paths. 
 
 ## reading multiple files at once
 
@@ -177,6 +178,8 @@ files <- dir("data")
 filenames <- sub( ".csv", "", files)
 for (i in 1:length(files)) assign(filenames[i], read.csv(files[i]))
 ```
+
+This requires however, that the data are of the same structure, i.e. they use same delimiters and separators etc!
 
 ## reading a file from the internet 
 
@@ -196,12 +199,19 @@ traits <- read.table("https://datadryad.org/bitstream/handle/10255/dryad.76638/A
 
 BExIS (https://www.bexis.uni-jena.de/) is the central data management platform for the Biodiversity Exploratories. You are supposed to upload your own project data here and you have access to descriptive parameters of the plots and many other project datasets. 
 
+
+![](assets/bexis02.png)
+
 An R script by Dennis Heimann and Andreas Ostrowski provides the function `read_service()` (original version as BExIS ID 6080, modified by myself with interactive password prompt [from this link](https://gist.github.com/fdschneider/9f5d044d5091976741ad07dab5439a77)).
 
 Note that you need BExIS access credentials to call this function as well as permission to download the file from the data owner (request via BExIS). The function takes a BExIS ID, your personal credentials (`user` and `pswd`) as well as the typical parameters required for `read.table()` (i.e. `sep`, `dec`).
 
+```{r, eval = FALSE}
+LUI_factors <- read.service(19266, dec = ",", user = "yourname", pswd = "yourpassword")
 
-```{r, eval = TRUE}
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 LUI_factors <- read.service(19266, dec = ",", user = "fdschneider")
 
 ```
@@ -228,6 +238,8 @@ write.csv(LUI_factors, file = "LUI_factors.csv", fileEncoding = "UTF-8" )
 Saving output after certain steps of computation can be useful to avoid repeating computation-heavy steps during your data processing. Just save the compiled data, means, or intermediate statistics in script 1 and build on top of this in script 2. 
 
 **A note on file encoding:** There are an infinite number of standards for text file encodings, i.e. the mappings of bits and bytes to actual letters. The UTF-8 standard is the most universal and accepted encoding. If you want to publish your data on a repository, it is recommended to choose this mode. If you want to learn more about encodings, start with [this Wikipedia article](https://en.wikipedia.org/wiki/Character_encoding) and check out `?file`. 
+
+---
 
 # 3. Review content of your data object
 
@@ -264,7 +276,7 @@ The most direct way to access a column in a data frame is the `$` sign:
 hist(LUI_factors$TotalGrazing)
 ```
 
-We cover other ways further below. 
+We cover alternative ways of accessing data further below. 
 
 ## fixing problems in data.frames
 
@@ -301,24 +313,82 @@ When reading data from a file, R 'guesses' the data type from the values it find
 
 ### fixing data type
 
-LUI_factors$isVIP
+It is quite common that integer numbers are interpreted as integer, but it would be more useful to consider them as categorical, e.g. in the case of years. The order of the years is not important in the first place (seasons are highly variable) and if the timeseries misses a year, that doesn't mean that gap is interpreted as a double distance of data points.
+
+```{r}
+str(LUI_factors$Year)
+LUI_factors$Year <- as.factor(LUI_factors$Year)
+str(LUI_factors$Year)
+```
+
+Alternatively, you might want years be encoded as date. Date and time handling in R is a tricky task and not covered in depth here. But for a start, check out the manual for the `as.Date()` function, as well as the format coding described under `?strptime`. 
+
+```{r}
+str(d1$date)
+d1$date <- as.Date(d1$date, format = "%m/%d/%Y %I:%M:%S %p")
+str(d1$date)
+```
 
 ### fixing column names
 
-names(data)
+Sometimes a downstream code or function expects a column to have a certain name, or you want to fix a typo in the original column header. 
 
-### deleting columns 
+```{r}
+names(traits)[4] <- "species"
 
-data <- subset(data, select = c(-badcol))
+```
 
-data$badcol <- NULL
+### deleting and selecting columns 
+
+You may want to keep your data table tidy and strip all columns that are not needed for your analysis. There are a couple of ways of deleting unwanted columns.
+
+```{r}
+# replacing the original table with one that is reduced by the unwanted column (negative subsetting)
+traits <- subset(traits, select = c(-Endophagous_lifestyle))
+
+# eliminating the column by setting it to value NULL
+traits$Stratum_use <- NULL
+
+```
 
 alternatively, select the columns you want (positive subsetting): 
 
-data <- data[, c(goodcol)]
+```{r}
+traits_tidy <- subset(traits, select = c(species, Body_Size, Feeding_guild_short, Stratum_use_short))
+head(traits_tidy)
+```
+
+This obviously can also be used to re-order columns in your data frame. 
+
+### harmonize factor levels
+
+Obviously, the genus "Achemilla" does not exist. 
+
+```{r}
+subset(d1, plant_genus %in% c("Alchemilla", "Achemilla"))
+```
+
+What we need is to reunite the factor level 'Achemilla' with 'Alchemilla'. The graceful solution requires `revalue` from package `plyr`: 
+
+```{r, message=FALSE}
+require(plyr)
+d1$plant_genus <- revalue(d1$plant_genus, replace = c(Achemilla = "Alchemilla"))
+
+```
 
 ### eliminating unwanted rows
 
+Sometimes, some entries in your dataset are flagged as invalid or flawed, or just are empty rows. In those cases, delete them before you start doing any analysis. 
+
+```{r}
+d1 <- subset(d1, plant_species != "") # deletes any rows with empty entries in column plant_species
+```
+
+In the traits data, a `*` in column `Remark` flags species that do neither obligatory nor facultative occur in grasslands. Let's say, we want to skip those. 
+
+```{r}
+traits <- subset(traits, Remark != "*")
+```
 
 we go more into depth for selecting rows and columns in the next section of the workshop. 
 
@@ -326,20 +396,29 @@ we go more into depth for selecting rows and columns in the next section of the 
 
 By default, the factor levels are ordered alphabetically. E.g. 
 
-### Fix logical vectors
-
-For instance, logical/binary data are much easier to handle in R if they are encoded as such. If levels are encoded in the file as one out of c("T", "TRUE", "True", "true") or c("F", "FALSE", "False", "false") then R assumes they are logical. Pure integer vectors of 1 and 0 are also interpreted as TRUE and FALSE in a logical vector. In any other case, you need to translate your own encoding. 
-
 ```{r}
-str(LUI_factors)
-
-levels(LUI_factors$isVIP) <- c(FALSE, TRUE)
-LUI_factors$isVIP <- as.logical(LUI_factors$isVIP) 
-
-str(LUI_factors)
+head(traits$Stratum_use_short)
 ```
 
-### harmonize factor levels
+Here, `g` stands for ground-dweller, `h` for herb layer, `s` for soil-dweller, `t` for shrub & tree layer, `u` for unspecific and `w` for water-bound. For a meaningful interpretation of the vertical stratum, a re-assignment of the order might be useful. 
+```{r}
+traits$Stratum_use_short <- factor(traits$Stratum_use_short, levels = c("s", "g", "h", "t", "w", "u"))
+head(traits$Stratum_use_short)
+
+```
+
+### Fix logical vectors
+
+Most common is the case where logical values are encoded in user-defined terms, like 'yes'/'no' or '1'/'0'. Only if levels are encoded in the file as one out of c("T", "TRUE", "True", "true") or c("F", "FALSE", "False", "false") then R assumes they are logical. Pure integer vectors of 1 and 0 are also interpreted as TRUE and FALSE in a logical vector. In any other case, you need to translate your own encoding. 
+To fix this, we first need to replace the labels, and then convert it to a logical vector. 
+
+```{r}
+str(LUI_factors$isVIP)
+LUI_factors$isVIP <- factor(LUI_factors$isVIP, levels = c("yes", "no"), labels = c(TRUE, FALSE)) # here, levels lists the order of the old labels, and labels the names of the new labels. 
+LUI_factors$isVIP <- as.logical(LUI_factors$isVIP) # as.logical is able to interpret 
+str(LUI_factors$isVIP)
+```
+
 
 ### assign NAs correctly
 
@@ -349,20 +428,44 @@ str(LUI_factors)
 
 ## Exercise 1
 
-We are assuming an experiment with 12 grassland plots of varying land use intensity that are distributed in a larger landscape. The amount of fertilization, frequency of grazing by cattle and mowing are documented for each plot. Also, each plot has a small weather station that measures temperature and precipitation. On four subplots, insect diversity is assessed, two of which are fenced against grazing by large herbivores. Sampling was done in two years (2013,2014). The data files rawdata.csv and plots.csv contain the response data on the sub-plots and the explanatory data on the plots. 
- 
+We are using data from the open data section of the Biodiversity Exploratories (https://www.bexis.uni-jena.de/PublicData/BrowsePublicData.aspx). 
 
-1. read datasets  [rawdata.csv]() and  [plots.csv]() into R.  
-    a) by downloading into your local working directory from ... and using `read.csv()`, or 
-    b) directly from their online source.
-2. revise and fix errors
-    - check for missing values
-    - check decimal delimiters
-    - check logical values and harmonize factors
+- dataset: 12807 - InsectScale - Flower Cover (2009)
+  metadata page: https://www.bexis.uni-jena.de/PublicData/ShowPublicXml.aspx?DatasetId=12807
+  download page: https://www.bexis.uni-jena.de/PublicData/ShowPublicPrimaryData.aspx?DatasetId=12807
+- dataset: 13426 - InsectScale2008FlowerCover
+  metadata page: https://www.bexis.uni-jena.de/PublicData/ShowPublicXml.aspx?DatasetId=13426
+  download page: https://www.bexis.uni-jena.de/PublicData/ShowPublicPrimaryData.aspx?DatasetId=13426
+- dataset: 12967 - Simpson´s diversity of Coleoptera and Heteroptera
+  metadata page: https://www.bexis.uni-jena.de/PublicData/ShowPublicXml.aspx?DatasetId=12967
+  download page: https://www.bexis.uni-jena.de/PublicData/ShowPublicPrimaryData.aspx?DatasetId=12967
+
+1. download the files, unzip and read them into R 
+
+Advanced: 
+
+2. fix date format 
+3. rename exploratory factor levels to "HAI", "ALB" and "SCH" (in this order)
+4. check and harmonize factor levels for genus and species
+
 
 ```{r, echo = FALSE}
-rawdata <- read.csv("data/rawdata.csv")  
-plots <- read.csv("data/plots.csv")  
+  d1 <- read.table("data/12807/12807.txt", sep = "\t", header  = TRUE )
+  d2 <- read.table("data/13426/13426.txt", sep = "\t", header  = TRUE )
+  d3 <- read.table("data/12967/12967.txt", sep = "\t", header  = TRUE ) 
+  
+  #2. 
+  d1$date <- as.Date(d1$date, format = "%m/%d/%Y %I:%M:%S %p")
+  d2$date <- as.Date(d2$date, format = "%m/%d/%Y %I:%M:%S %p")
+  
+  #3.
+  d1$exploratory <- factor(d1$exploratory, levels = c("Hainich", "SchwaebischeAlb", "Schorfheide"), labels = c("HAI", "ALB", "SCH"))
+  d2$exploratory <- factor(d2$exploratory, levels = c("Hainich", "SchwaebischeAlb", "Schorfheide"), labels = c("HAI", "ALB", "SCH"))
+  
+  
+  #4.
+  d1$plant_genus <- revalue(d1$plant_genus, replace = c(Achemilla = "Alchemilla"))
+
 ```
 
 ---
@@ -372,13 +475,13 @@ plots <- read.csv("data/plots.csv")
 
 ## select data columns 
 
-Once you have read-in a data table and fixed errors, you mostly need only some of the columns to do your further calculations. Most beginners guides describe `attach()` and `detach()` to access data within a table. 
+Once you have read-in a data table and fixed the obvious errors, you mostly need only some of the columns to do your further calculations. Most beginners guides describe `attach()` and `detach()` to access data within a table. 
 
 ```{r, eval = FALSE}
 
-attach(rawdata)
-plot(shannon ~ fenced)
-detach(rawdata)
+attach(traits)
+plot(Dispersal_ability ~ Body_Size)
+detach(traits)
 ```
 
 This clutters the R environment with a lot of invisible objects. People do often forget to detach databases and then objects are difficult to handle and to remove. Also, if you modify those objects, they will not affect the master table, which remains in the state it was before it was attached. **Using `attach()` is considered bad practice!**
@@ -386,59 +489,67 @@ This clutters the R environment with a lot of invisible objects. People do often
 Rather you should access content directly. The easiest way would be to use the `$` selector. 
 
 ```{r, eval = FALSE}
-lm(rawdata$shannon ~  rawdata$fenced)
+lm(d3$heteroptera_simpson ~  d3$coleoptera_simpson)
 ```
 
 or, to extract only what you need into new objects. 
 
 ```{r, eval = FALSE}
-shannon <- rawdata$shannon
-fenced <- rawdata$fenced
-lm(shannon ~ fenced)
+y <- LUI_factors$Year
+grazing <- LUI_factors$TotalGrazing
+lm(grazing ~ y)
 ```
 
 You could also use the function `with()` which creates a temporary environment where the content of your data table is available:
 
 ```{r, eval = FALSE}
-with(rawdata, lm(shannon ~ fenced))
+with(d3, lm(heteroptera_richness ~ coleoptera_richness))
 ```
-
-
-A very powerful function are the squared brackets  `[]` which allow you to select columns by name or by position and let you create a subset of columns.
-
-```{r}
-head(rawdata[,c("fenced","shannon")])
-```
-
 
 **Best practice!**: Keep the table structure of your data object intact and tell the functions were to find the columns using the `data` parameter, which is available in many statistical functions and plotting functions:
 
 ```{r, eval = FALSE}
-lm(shannon ~ fenced, data = rawdata)
+lm(TotalMowing ~ TotalFertilization + Exploratory, data = LUI_factors)
 ```
 
-## select data rows
+
+## select columns and rows
+
+A very powerful function are the squared brackets  `[]` which allow you to select columns by name or by position and let you create a subset of columns.
+
+```{r}
+head(LUI_factors[,c("Year","EP_PlotID", "TotalGrazing")])
+```
 
 In complex data sets, you often want to exclude part of it before you go on with your analysis or plot only a subset based on a condition, e.g. to show the data of only one treatment and not the other.
 
-The squared brackets `[]` can also be used to select a part of a vector or a data frame.
+The squared brackets `[]` can also be used to select rows of a vector or a data frame.
 
 To exclude one row of data, e.g. because you know that the replicate was methodologically flawed or an extreme outlier, the simplest way is to do 
 
 ```{r, eval = FALSE}
-data1 <- rawdata[-c(42),]
+LUI_factors[23:25,]
 ```
 
-Or you might want to exclude a sequence of data for similar reasons. 
+Or you might want to exclude a sequence of data (negative subsetting). 
 
 ```{r, eval = FALSE}
 data1 <- rawdata[-c(42:64),]
 ```
 
+This allows us to create very compact data extracts. 
+
+```{r}
+  s1 <- d1[d1$plant_species %in% c("Plantago lanceolata") , c("inflorescences_qcm","date")]
+  head(s1)
+  s2 <- d1[d1$EP_PlotID %in% c("HEG24"), c("plant_species","inflorescences_qcm", "date")]
+  head(s2)
+```
+
 
 ## using logical expressions
  
-In most cases, the rows you want to exclude are loosely mixed into your dataset. Or you want to select rows by a condition. Conditionals are based on  'logical expressions', a concept that is common to all programming languages:
+In most cases, the rows you want to exclude are loosely mixed into your dataset and you want to select rows by a condition. Conditionals are based on  'logical expressions', a concept that is common to all programming languages:
 
 - `A == B` : A equals B 
 - `A != B` : A is unequal to B
@@ -475,7 +586,6 @@ subset(d, y >= 1.3)
 ```
 
 
-
 ## dropping factor levels
 
 Any factor levels of the original vector or dataframe will be preserved if you use `[]` or `subset()`. If you want to eliminate unused factor levels you should apply the function `droplevels()`, e.g. if you want to plot figures from the data that are based on the factor levels:
@@ -487,35 +597,45 @@ plot(droplevels(d[d$x != "A", ]))
 ```
 
 
-## summing up
-
-You might have noticed that the squared brackets can be used for both, subsetting of rows *and* selection of columns. This is a very powerful tool, since you can use it both at the same time. This allows us to create very compact data extracts. 
-
-```{r}
-  s1 <- d1[d1$exp2 %in% c("A","B","D"), c("exp1","resp")]
-  head(s1)
-  s2 <- d1[d1$exp2 %in% c("C"), c("exp1","resp")]
-  head(s2)
-```
-
 ---
 
 # Exercise 2 
 
-- The rawdata object contains notes on some flawed data points. It is a good idea to eliminate them before use.^[ `data <- rawdata[rawdata$notes == ""]` ]
-- The species sampling was done in 2013. Species data for 2014 are not available yet. Eliminate 2014 values from `plots`!
-- merge the plot information of 2013 to the rawdata table. 
-- save the result as your working data `data.Rd` or `data.csv`.
+We continue to work with the data the Land Use Intensity Index.  
+
+1. Create a subset of all VIP plots and
+2. extract a list of EP_PlotIDs
+3. create a subset of all plots with high grazing (i.e. more than median value)
+4. eliminate all data from before 2008.
+5. summarize mowing frequency in each of the three regions across all years 
 
 ```{r}
-data <- subset(rawdata, notes == "")
-plots2013 <- subset(plots, year == "2013")
-data <- cbind(data, plots2013[match(data$plot, plots2013$plot), -c(1,2)])
-write.csv(data, "data.csv")
-save(data, data, file = "data.Rd")
-```
+#1. 
+vip <- subset(LUI_factors, isVIP)
 
-*Note*: The specific R data file format also is a simple text file, but it maintains the full object structure. This is particularly useful when saving list objects such as output of a statistical model. 
+#2. 
+vip$EP_PlotID <- droplevels(vip$EP_PlotID)
+levels(vip$EP_PlotID)
+
+# or
+
+levels(LUI_factors$EP_PlotID[LUI_factors$isVIP, drop = TRUE])
+
+#3. 
+
+highgrazing <- subset(LUI_factors, TotalGrazing >= median(LUI_factors$TotalGrazing))
+
+#4. 
+
+LUI_after2007 <- subset(LUI_factors, Year %in% as.character(2008:2016) )
+
+#5. 
+par(mfrow = c(1,3))
+plot(TotalFertilization ~ Year, ylim = c(0,420), data = subset(LUI_factors, Exploratory == "HAI") ) 
+plot(TotalFertilization ~ Year, ylim = c(0,420), data = subset(LUI_factors, Exploratory == "ALB") ) 
+plot(TotalFertilization ~ Year, ylim = c(0,420), data = subset(LUI_factors, Exploratory == "SCH") ) 
+
+```
 
 
 ---
@@ -538,8 +658,6 @@ mapvalue()
 ```{r}
 levels(traits$Stratum_use_short)
 ```
-
-Here, `g` stands for ground-dweller, `h` for herb layer, `s` for soil-dweller, `t` for shrub & tree layer, `u` for unspecific and `w` for water-bound. For a meaningful interpretation of the vertical stratum, a re-assignment of the order might be useful. 
 
 
 
@@ -580,13 +698,3 @@ rbind(d,d)
 ```
 
 
-
-
-
-### EXERCISE 3
-
-- [ ] extract all data points from `d1` that have value "A" in `exp2` into an object `s`. 
-- [ ] extract all datapoints from `d2` that have response value larger than 100, and that have value "a" for `cof1`. 
-- [ ] paste another column to `d2` that contains random numbers^[Hint: use function `cbind()`] 
-
----
