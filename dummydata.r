@@ -11,7 +11,7 @@ d_plot$mowing <-  3-floor(log(d_plot$grazing)) + abs(as.integer(rnorm(n_plots*2,
   d_plot$mowing[d_plot$mowing < 0] <- 0
 d_plot$fertilization <-  round(exp(runif(n_plots*2,0,5)), 0)
 d_plot$temp <- round(rep(rnorm(2,14,1), each = n_plots) + rnorm(n_plots*2, 0, 0.5)  , 1)
-d_plot$precipitation <- round(rep(rnorm(2,660,25), each = n_plots) + rnorm(n_plots*2, 0, 10), 3)
+d_plot$precipitation <- round(rep(rnorm(2,660,145), each = n_plots) + rnorm(n_plots*2, 0, 50), 3)
 
 
 # a fake dataset with observational data of species abundance and evenness
@@ -71,6 +71,6 @@ write.csv(as.data.frame(d_raw), file = "data/rawdata2014.csv", row.names = FALSE
 
 
 
-d_plot$precipitation[c(11, 12)] <- "NA"
+d_plot$precipitation[c(11, 12)] <- NA
 
 write.csv2(as.data.frame(d_plot), file = "data/plots.csv", row.names = FALSE)
