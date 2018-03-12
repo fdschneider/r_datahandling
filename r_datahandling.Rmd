@@ -179,18 +179,6 @@ Importing data probably does not work right away. The R environment typically as
 
 **Advanced Note:** The simplest way to manage working directories and relative paths is to use RStudio projects. For each project, RStudio will assume the working directory in the project root directory. If you open the project on a different computer or move it around on your computer, R will still find the relative paths. 
 
-## reading multiple files at once
-
-If you work with large bits of data, your raw data might be split across separate files or spreadsheet pages. To load them in a single call you may use a loop. In the following example, we call all files from a specific directory (called "data"):
-
-```{r, eval = FALSE}
-files <- dir("data")
-filenames <- sub( ".csv", "", files)
-for (i in 1:length(files)) assign(filenames[i], read.csv(files[i]))
-```
-
-This requires however, that the data are of the same structure, i.e. they use same delimiters and separators etc!
-
 ## reading a file from the internet 
 
 Instead of reading files from your local computer, you may want to refer to files published online, e.g. on Github or figshare. 
@@ -202,6 +190,21 @@ In principle, you can open any text-based file (csv or txt) that is accessible o
 traits <- read.table("https://datadryad.org/bitstream/handle/10255/dryad.76638/ArthropodSpeciesTraits.txt?sequence=1", 
                      sep = "\t", header = TRUE) # original publication DOI: 10.1038/sdata.2015.13 metadata: https://www.nature.com/articles/sdata201513/tables/2
 
+
+```
+
+**Advanced Tip**:  Very often, data packages are compiled into compressed zip-archives. In this case, R can download and extract files by name. This little script allows you to do this. The example accesses data from this publication from the Biodiversity Exploratories: 
+
+> Völler, Eva; Bossdorf, Oliver; Prati, Daniel; Auge, Harald (2017): Quantitative genetic traits of eight grassland species from three regions of Germany (Schwäbische Alb, Hainich-Dün, Schorfheide Chorin). PANGAEA, https://doi.org/10.1594/PANGAEA.871061 
+
+```{r}
+temp <- tempfile(fileext = ".zip")
+download.file("https://doi.pangaea.de/10.1594/PANGAEA.871061?format=zip", temp, method = "auto", quiet = TRUE, mode="wb")
+unzip(temp, files = "datasets/Voeller_F-rubra.tab", exdir = "data", junkpaths = TRUE )  # parameters give relative path of file within the archive and where to extract to
+unlink(temp)
+rm(temp)
+
+F_rubra <- read.delim("data/Voeller_F-rubra.tab", skip = 19, encoding = "UTF-8")
 
 ```
 
@@ -235,13 +238,54 @@ A couple of shared core datasets that might be useful for your analysis:
 
 For some of these, you may need to ask for permission by the data owner. By downloading files from BExIS you declare consent with the data sharing agreement of the Exploratories!
 
+## reading multiple files at once
+
+If you work with large bits of data, your raw data might be split across separate files or spreadsheet pages. To load them in a single call you may use a loop. In the following example, we call all files from a specific directory (called "data"):
+
+```{r, eval = FALSE}
+files <- dir("data")
+filenames <- sub( ".csv", "", files)
+for (i in 1:length(files)) assign(filenames[i], read.csv(files[i]))
+```
+
+This requires however, that the data are of the same structure, i.e. they use same delimiters and separators etc!
+
+In the example above, using an extended code  will read all files that are included in the zip archive: 
+
+```{r}
+temp <- tempfile(fileext = ".zip")
+download.file("https://doi.pangaea.de/10.1594/PANGAEA.871061?format=zip", temp, method = "auto", quiet = TRUE, mode="wb")
+unzip(temp, exdir = "data")  # parameters give relative path of file within the archive and where to extract to
+unlink(temp)
+rm(temp)
+
+library(data.table)
+
+files <- dir("data/datasets")
+filenames <- sub( ".tab", "", files)
+voeller <- list()
+
+for (i in 1:length(files)) {
+  file <- paste0("data/datasets/",files[i])
+  temp <- readLines(file)    # temporary content of file
+  skipLine <- which(temp == "*/")  #this is a dirty solution to finding the end of the comment section in each file
+  voeller[[i]] <- read.delim(file, skip = skipLine, encoding = "UTF-8") # the data.table format of package data.table is more flexible when merging
+}
+
+voeller <- rbindlist(voeller, fill = TRUE )
+
+voeller
+```
+
+
 ## write data
 
 Just to complete this section, we cover writing data files that have been created in R to your disk. 
 Any data.frame object can be written into a text file using `write.csv()` and `write.table()` (just analog to `read.csv()` and `read.table()`). 
 
 ```{r}
-write.csv(LUI_factors, file = "LUI_factors.csv", fileEncoding = "UTF-8" )
+write.csv(LUI_factors, file = "data/processed/LUI_factors.csv", fileEncoding = "UTF-8" )
+write.csv(voeller, file = "data/processed/voeller.csv", fileEncoding = "UTF-8" )
 ```
 
 Saving output after certain steps of computation can be useful to avoid repeating computation-heavy steps during your data processing. Just save the compiled data, means, or intermediate statistics in script 1 and build on top of this in script 2. 
@@ -795,13 +839,27 @@ Note that you can apply descending ordering by wrapping the variable name in `de
 ## merge data frames 
 
 If two data.frames have exactly the same order of variabes, it is easy to combine them using `rbind()`. 
-Similarly, `cbind()` allows you to combine data with the same number of rows. Note that you need to make sure by yourself that the rows are aligned!
+Similarly, `cbind()` allows you to combine data with the same number of rows. 
 
 ```{r}
 d
 e <- data.frame(ID = 1:9, year = rep(2008:2010, times = 3)); e
 ed <- cbind(e, d)
 rbind(d, c("C", 1.4))
+```
+
+Note that you need to make sure by yourself that the rows are aligned, i.e. they have the same length and meaning per column or row!
+
+
+If you want to bind data.frames with different column content, you may want to use the `rbindlist()` function from the package data.table. It completes columns that are not present in all data.frames with NAs. 
+
+```{r}
+library(data.table)
+
+A_elatius <- read.delim("data/datasets/Voeller_A-elatius.tab", skip = 19, encoding = "UTF-8")
+B_hordeaceaus <- read.delim("data/datasets/Voeller_B-hordeaceus.tab", skip = 20, encoding = "UTF-8")
+
+rbindlist(list(A_elatius, B_hordeaceaus), fill = TRUE )
 ```
 
 An important function when working with multiple data.frames is the function `merge()`. It allows to combine two tables of different columns by matching the rows by a common variable, i.e. one that occurs in table `x` and in table `y`. The rows in the shorter table will be repeated to match the rows in the longer one. 
