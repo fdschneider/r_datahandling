@@ -86,6 +86,9 @@ Usually, the dataset you want to use was assessed in the experimental environmen
 
 ## data structure
 
+![](assets/spreadsheet.png)
+
+
 Of course, R will be able to read in data tables of any structure. Any data structure can be transferred with a couple of lines of code into any form you require. But you can simplify your life if you decide on a **raw data structure** that is easy to handle in R. To achieve this, there are a couple of rules of thumb: 
 
 - **one line = one data point**:  Long-table formats are more tidy than wide-tables (Whickham 2014), e.g. if you keep replicated measures in own columns it is much more work to tell R why they are basically the same, but different. Rather add another column to label treatments or replicates. 
@@ -263,13 +266,13 @@ library(data.table)
 
 files <- dir("data/datasets")
 filenames <- sub( ".tab", "", files)
-voeller <- list()
+voeller <- list() # creating a list object that will take all our individual data tables
 
 for (i in 1:length(files)) {
   file <- paste0("data/datasets/",files[i])
   temp <- readLines(file)    # temporary content of file
   skipLine <- which(temp == "*/")  #this is a dirty solution to finding the end of the comment section in each file
-  voeller[[i]] <- read.delim(file, skip = skipLine, encoding = "UTF-8") # the data.table format of package data.table is more flexible when merging
+  voeller[[i]] <- read.delim(file, skip = skipLine, encoding = "UTF-8") # read and store each object in the list, while omitting any non-data
 }
 
 voeller <- rbindlist(voeller, fill = TRUE )
@@ -284,9 +287,11 @@ Just to complete this section, we cover writing data files that have been create
 Any data.frame object can be written into a text file using `write.csv()` and `write.table()` (just analog to `read.csv()` and `read.table()`). 
 
 ```{r}
-write.csv(LUI_factors, file = "data/processed/LUI_factors.csv", fileEncoding = "UTF-8" )
-write.csv(voeller, file = "data/processed/voeller.csv", fileEncoding = "UTF-8" )
+write.csv(LUI_factors, file = "data/LUI_factors.csv", fileEncoding = "UTF-8", row.names = FALSE )
+write.csv(voeller, file = "data/voeller.csv", fileEncoding = "UTF-8", row.names = FALSE )
 ```
+
+By default the function writes row names as well. In our case they are only numeric and don't contain information, so we skip them. 
 
 Saving output after certain steps of computation can be useful to avoid repeating computation-heavy steps during your data processing. Just save the compiled data, means, or intermediate statistics in script 1 and build on top of this in script 2. 
 
@@ -305,6 +310,8 @@ Dataframes are two-dimensional tabular structures. They can easily be accessed b
 In most cases, tables can be interpreted as **observations** (the rows) on a fixed number of **variables** (the columns). Each observation contains a set of defined metrics, one for each variable of interest. In ecological data, variables can usually be further distinguished into response variables and descriptive explanatory variables or cofactors. Explanatory variables also comprise information about the spatio-temporal context of the measurement (e.g. the plot or year). 
 
 Technically, each column is a vector of the same length (= number of rows), while each vector can have different content type, i.e. numbers, factorials, characters. This is the main difference with matrices, which are homogeneous in content. In contrast, list objects may have different vector lengths for each entry. 
+
+
 The most direct way to access a column in a data frame is the `$` sign:
 
 ```{r}
@@ -453,11 +460,14 @@ str(LUI_factors$isVIP)
 
 ### fixing column names
 
-Sometimes a downstream code or function expects a column to have a certain name, or you want to fix a typo in the original column header. The function `names()` allows you to access and edit the column names of a data frame.
+Sometimes a downstream code or function expects a column to have a certain name, or you want to fix a typo in the original column header, or the data you loaded have cryptic column names that you want to replace with something meaningful. 
+
+The function `names()` allows you to access and edit the column names of a data frame. 
 
 ```{r}
-names(traits)[4] <- "species"
-
+names(voeller)
+names(voeller) <- c("eventID", "latitude", "longitude", "EP_PlotID", "day_of_year", "plant_height", "total_biomass", "panicle", "biomass_dry", "reproductive_allocation_ratio", "n_capsules", "n_umbel", "n_inflorescences")
+voeller
 ```
 
 ### deleting and selecting columns 
@@ -476,8 +486,8 @@ traits$Stratum_use <- NULL
 alternatively, select the columns you want to keep (positive subsetting): 
 
 ```{r}
-traits_tidy <- subset(traits, select = c(species, Body_Size, Feeding_guild_short, Stratum_use_short))
-head(traits_tidy)
+traits_tidy <- subset(traits, select = c(SpeciesID, Body_Size, Feeding_guild_short, Stratum_use_short))
+traits_tidy
 ```
 
 This obviously can also be used to re-order columns in your data frame. 
@@ -498,6 +508,16 @@ traits <- subset(traits, Remark != "*")
 
 We go more into depth for selecting rows and columns in the next section of the workshop. 
 
+### save your work
+
+After fixing your data, you should not forget to save your edits and make a note in the README file. You should also keep the entire script of this editing process for reasons of reproducibility. 
+
+```{r}
+write.csv(LUI_factors, file = "data/LUI_factors.csv", fileEncoding = "UTF-8", row.names = FALSE )
+write.csv(voeller, file = "data/voeller.csv", fileEncoding = "UTF-8", row.names = FALSE )
+```
+
+These are the data you will from now on rely on. 
 
 ---
 
@@ -552,9 +572,9 @@ Solution:
   #5. 
   if(!dir.exists("data/processed/")) dir.create("data/processed/")
     # note that any sub-folder you are writing to must exist! This line checks if it does and otherwise creates it. 
-  write.csv(d1, file = "data/processed/flowers2009.csv")
-  write.csv(d2, file = "data/processed/flowers2008.csv")
-  write.csv(d1, file = "data/processed/diversity2008.csv")
+  write.csv(d1, file = "data/processed/flowers2009.csv", row.names = FALSE)
+  write.csv(d2, file = "data/processed/flowers2008.csv", row.names = FALSE)
+  write.csv(d1, file = "data/processed/diversity2008.csv", row.names = FALSE)
     # you might want to add a README file in "data/processed" that explains the origin and processing for these files.
   
 ```
@@ -565,6 +585,7 @@ Solution:
 
 Now, before you start analysing your data, you may have to modify some of the original raw data into derived statistics. This section covers operations that affect single columns in your data.frame.   
 
+<!--
 ## renaming values 
 
 As we have learned before, factor levels can be remapped by re-assigning it using the function `factor()`. 
@@ -573,6 +594,7 @@ As we have learned before, factor levels can be remapped by re-assigning it usin
 
 revalue() 
 mapvalue()
+-->
 
 ## re-coding categorical variables
 
@@ -591,7 +613,7 @@ LUI_factors$Grazing_categorical <- cut(LUI_factors$TotalGrazing, breaks = c(0,10
 plot(LUI_factors$Grazing_categorical, main = "number of plots with grazing pressure ...")
 ```
 
-
+<!--
 ## convert units
 
 In numerical variables, you sometimes want to convert units to a standard form, e.g. inch to cm (one inch is 2.54 cm).
@@ -599,7 +621,7 @@ In numerical variables, you sometimes want to convert units to a standard form, 
 ```{r}
 
 ```
-
+-->
 
 ## normalize
 
@@ -642,6 +664,9 @@ LUI_factors <- transform(LUI_factors,
 Note that you can't use the new columns for computations of other new columns. You need to run a second call of transform. The `mutate()` function adds this capacity while also being much faster (which may become important in big datasets):
 
 ```{r}
+
+library(plyr)
+
 LUI_factors <- mutate(LUI_factors, 
                 Grazing_standardized = LUI_factors$TotalGrazing / max(LUI_factors$TotalGrazing),
                 Fertilization_standardized = LUI_factors$TotalFertilization / max(LUI_factors$TotalFertilization),
@@ -649,6 +674,18 @@ LUI_factors <- mutate(LUI_factors,
                 LUI = (Grazing_standardized + Fertilization_standardized + Mowing_standardized) / 3
   ) 
 ```
+
+
+### save your work
+
+Again, it is important to save these steps of preparation for your work. But don't touch your raw data!!! 
+Instead you are now working with processed data that you want to store separately. You could change their filename or put them in a seperate directory.  
+
+```{r}
+write.csv(LUI_factors, file = "data/processed/LUI_factors.csv", fileEncoding = "UTF-8", row.names = FALSE )
+write.csv(voeller, file = "data/processed/voeller.csv", fileEncoding = "UTF-8", row.names = FALSE )
+```
+
 
 
 ---
@@ -776,19 +813,33 @@ subset(d, y >= 1.3)
 
 We continue to work with the data of the Land Use Intensity Index.  
 
-1. Create a subset of all VIP plots and
-2. extract a list of EP_PlotIDs
-3. create a subset of all plots with high grazing (i.e. more than median value)
-4. eliminate all data from before 2008.
-5. summarize mowing frequency in each of the three regions across all years 
+1. Read data from BExIS (or from the data package) and compute LUI. 
+
+2. Create a subset of all VIP plots and
+3. extract a list of EP_PlotIDs (i.e. a vector of all IDs)
+4. create a subset of all plots with high grazing (i.e. more than median value)
+5. eliminate all data from before 2008.
+6. summarize/plot amount of fertilization in each of the three regions across all years 
 
 ---
 
-```{r}
-#1. 
+```{r, eval = FALSE}
+
+#1. Read data from BExIS (or from the data package) and compute LUI. 
+
+LUI_factors <- read.service(19266, dec = ",", user = "yourname", pswd = "yourpassword")
+
+LUI_factors <- mutate(LUI_factors, 
+                Grazing_standardized = LUI_factors$TotalGrazing / max(LUI_factors$TotalGrazing),
+                Fertilization_standardized = LUI_factors$TotalFertilization / max(LUI_factors$TotalFertilization),
+                Mowing_standardized = LUI_factors$TotalMowing / max(LUI_factors$TotalMowing),
+                LUI = (Grazing_standardized + Fertilization_standardized + Mowing_standardized) / 3
+  ) 
+
+#2. Create a subset of all VIP plots and
 vip <- subset(LUI_factors, isVIP)
 
-#2. 
+#3. extract a list of EP_PlotIDs (i.e. a vector of all IDs)
 vip$EP_PlotID <- droplevels(vip$EP_PlotID)
 levels(vip$EP_PlotID)
 
@@ -796,15 +847,15 @@ levels(vip$EP_PlotID)
 
 levels(LUI_factors$EP_PlotID[LUI_factors$isVIP, drop = TRUE])
 
-#3. 
+#4. create a subset of all plots with high grazing (i.e. more than median value)
 
 highgrazing <- subset(LUI_factors, TotalGrazing >= median(LUI_factors$TotalGrazing))
 
-#4. 
+#5. eliminate all data from before 2008.
 
 LUI_after2007 <- subset(LUI_factors, Year %in% as.character(2008:2016) )
 
-#5. 
+#6. summarize/plot amount of fertilization in each of the three regions across all years
 par(mfrow = c(1,3))
 plot(TotalFertilization ~ Year, ylim = c(0,420), data = subset(LUI_factors, Exploratory == "HAI") ) 
 plot(TotalFertilization ~ Year, ylim = c(0,420), data = subset(LUI_factors, Exploratory == "ALB") ) 
@@ -946,7 +997,7 @@ This drops all non-target variables (like taxon). A better choice is the reshape
 ```{r}
 reshape( 
   subset(traits, select = c(-Suborder, -Order, -Author, -Feeding_guild, -Feeding_tissue)),  #eliminating the unwanted columns from the output
-  idvar = "species", # name of the column to iterate 
+  idvar = "SpeciesID", # name of the column to iterate 
   ids = traits$species,  # vector of the sorting variable
   varying =  list(value = c("Body_Size", "Dispersal_ability","Feeding_guild_short", 
         "Feeding_mode", "Feeding_specialization", "Feeding_plant_part", "Stratum_use_short")),  # list of variable to stack 
@@ -960,7 +1011,7 @@ The `melt()` function from the reshape2 package is the more powerful and efficie
 
 ```{r}
 library(reshape2)
-melt(traits, id.vars = c("Order", "species"), 
+melt(traits, id.vars = c("Order", "SpeciesID"), 
       measure.vars = c("Body_Size", "Dispersal_ability", "Feeding_guild_short", "Feeding_mode", 
                        "Feeding_specialization", "Feeding_plant_part", "Stratum_use_short"))
 
@@ -1001,7 +1052,7 @@ flowerdata <- rbind(flowerdata2009,
     
 # 3. Write to a csv file
     
-write.csv(flowerdata, file = "data/processed/flowerdata.csv")
+write.csv(flowerdata, file = "data/processed/flowerdata.csv", row.names = FALSE)
 
 
 # 4. summarize the inflorescence counts of the repeated survey events to an average (per species, plot and year)
@@ -1078,3 +1129,12 @@ A good advice: It is important to keep a documentation of your process of data-a
 The central take home message should be that you use Excel and other spreadsheet software to enter your raw data in a computer, but R is the tool for anything else: arranging data, cleaning data, filtering data, producing aggregate statistics, etc.  
 
 The following parts of this workshop will continue with data analysis, statistics and plotting in R.
+
+
+
+
+```{r, echo = FALSE}
+write.csv(LUI_factors, file = "../r_graphics/data/LUI_factors.csv", fileEncoding = "UTF-8", row.names = FALSE )
+write.csv(voeller, file = "../r_graphics/data/voeller.csv", fileEncoding = "UTF-8", row.names = FALSE )
+write.csv(flowerdata, file = "../r_graphics/data/flowerdata.csv", fileEncoding = "UTF-8", row.names = FALSE )
+```
